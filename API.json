@@ -1,0 +1,1593 @@
+[
+    {
+        "id": 1,
+        "title": "Bài 1",
+        "description": "Kiểm tra kiến thức về chủ nghĩa Mác - Lênin và các nguyên lý cơ bản",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Đâu là câu nói phản ánh đúng nội dung cơ bản nhất của chủ nghĩa Mác - Lênin. Chủ nghĩa Mác - Lênin là?",
+                "options": [
+                    "Học thuyết do Lê-nin sáng lập.",
+                    "Hệ thống quan điểm và học thuyết khoa học của C.Mác, Ph.Ăngghen và sự phát triển của V.I.Lênin.",
+                    "Thế giới quan và phương pháp luận khoa học của các khoa học.",
+                    "Học thuyết khoa học về sự nghiệp giải phóng giai cấp vô sản và nhân dân lao động khỏi mọi ách áp bức, bóc lột."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 2,
+                "question": "Phát kiến vĩ đại nhất của C.Mác trên lĩnh vực nghiên cứu triết học và kinh tế chính trị là:",
+                "options": [
+                    "Sáng tạo ra chủ nghĩa duy vật biện chứng và học thuyết giá trị lao động.",
+                    "Sáng tạo ra phép biện chứng duy vật và học thuyết giá trị thặng dư.",
+                    "Sáng tạo ra chủ nghĩa duy vật và học thuyết giá trị thặng dư.",
+                    "Sáng tạo ra chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 3,
+                "question": "Bộ phận lý luận kinh tế chính trị của chủ nghĩa Mác được thể hiện tập trung trong tác phẩm:",
+                "options": [
+                    "Triết học.",
+                    "Tư bản luận (bộ Tư bản).",
+                    "Gôta.",
+                    "Tuyên ngôn của ĐCS"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 4,
+                "question": "\"Chủ nghĩa Mác đã mở đường cho việc nghiên cứu rộng rãi và toàn diện quá trình phát sinh, phát triển và suy tàn của các hình thái kinh tế - xã hội\". Nhận định trên đây là của:",
+                "options": [
+                    "C.Mác",
+                    "Ph.Ăngghen",
+                    "Vladimir Ilych Lenin",
+                    "Hồ Chí Minh"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 5,
+                "question": "Theo Ph.Ăngghen, vấn đề cơ bản lớn của triết học là vấn đề về:",
+                "options": [
+                    "Vật chất.",
+                    "Ý thức.",
+                    "Mối quan hệ giữa tư duy và tồn tại.",
+                    "Quy luật chung nhất của thế giới."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 6,
+                "question": "Đâu là nhận định của quan điểm siêu hình?",
+                "options": [
+                    "Cái chung tồn tại một cách độc lập, không phụ thuộc vào cái riêng.",
+                    "Trong hiện thực chỉ có các sự vật đơn thuần nhất là tồn tại.",
+                    "Cái chung chỉ tồn tại trong sự phụ thuộc vào cái riêng",
+                    "Tất cả các đáp án trên đều sai."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 7,
+                "question": "Khi khoa học tự nhiên phát hiện ra tia X, ra hiện tượng phóng xạ, ra điện tử là một thành phần cấu tạo nên nguyên tử. Theo V.I.Lênin điều đó chứng tỏ điều gì?",
+                "options": [
+                    "Vật chất không tồn tại thật sự.",
+                    "Vật chất tiêu tan mất.",
+                    "Vật chất có tồn tại và không thể nhận thức được.",
+                    "Giới hạn hiểu biết trước đây của chúng ta về vật chất mất đi."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 8,
+                "question": "Nhân tố cơ bản, trực tiếp tạo thành nguồn gốc xã hội của ý thức:",
+                "options": [
+                    "Lao động và ngôn ngữ",
+                    "Lao động trí óc và lao động chân tay.",
+                    "Thực tiễn kinh tế và lao động.",
+                    "Lao động và nghiên cứu khoa học."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 9,
+                "question": "Đâu là nội dung nguyên lý của phép biện chứng duy vật về mối liên hệ phổ biến của các sự vật và hiện tượng?",
+                "options": [
+                    "Các sự vật và hiện tượng trong thế giới tồn tại tách rời nhau, giữa chúng không có sự phụ thuộc, ràng buộc lẫn nhau.",
+                    "Thế giới là một chỉnh thể bao gồm các sự vật, các quá trình vừa tách biệt nhau, vừa có liên hệ qua lại, vừa thâm nhập và chuyển hoá lẫn nhau.",
+                    "Các sự vật có sự liên hệ tác động lẫn nhau nhưng không có sự chuyển hoá lẫn nhau.",
+                    "Sự vật khác nhau ở vẻ bề ngoài, do chủ quan của con người quy định, bản chất sự vật không có gì khác nhau."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 10,
+                "question": "Phép biện chứng duy vật bao gồm những nguyên lý, quy luật cơ bản nào?",
+                "options": [
+                    "2 nguyên lý, 3 quy luật.",
+                    "2 nguyên lý, 2 quy luật.",
+                    "3 nguyên lý, 2 quy luật",
+                    "3 nguyên lý, 3 quy luật"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 11,
+                "question": "Nguồn gốc, động lực cơ bản của sự vận động, phát triển là do:",
+                "options": [
+                    "Sự thống nhất của các mặt đối lập.",
+                    "Sự đấu tranh của các mặt đối lập và các quy luật.",
+                    "Sự thống nhất và đấu tranh giữa các mặt đối lập.",
+                    "Sự thống nhất và đấu tranh của các quy luật."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 12,
+                "question": "\"Đói nghèo\" và \"dốt nát\", hiện tượng nào là nguyên nhân, hiện tượng nào là kết quả?",
+                "options": [
+                    "Đói nghèo là nguyên nhân, dốt nát là kết quả.",
+                    "Dốt nát là nguyên nhân, đói nghèo là kết quả.",
+                    "Hiện tượng này chỉ có thể là nguyên nhân hoặc kết quả của hiện tượng kia.",
+                    "Hiện tượng này vừa là nguyên nhân, vừa là kết quả của hiện tượng kia."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 13,
+                "question": "C.Mác và Ph.Ăngghen cho rằng: Cái mà người ta quả quyết cho là… thì lại hoàn toàn do những cái… cấu thành; và cái được coi là… lại là hình thức trong đó ẩn nấp…",
+                "options": [
+                    "tất yếu/ngẫu nhiên; ngẫu nhiên/tất yếu.",
+                    "ngẫu nhiên/tất yếu; tất yếu/ngẫu nhiên.",
+                    "tất yếu/ngẫu nhiên; tất yếu/ngẫu nhiên.",
+                    "ngẫu nhiên/tất yếu; ngẫu nhiên/tất yếu."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 14,
+                "question": "Cái gì trực tiếp làm thay đổi chất của sự vật?",
+                "options": [
+                    "Sự tăng lên hay giảm đi về số lượng của các yếu tố cấu thành sự vật.",
+                    "Sự biến đổi cấu trúc của sự vật.",
+                    "Sự tăng lên về quy mô tồn tại của sự vật.",
+                    "Không có đáp án nào đúng."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 15,
+                "question": "Cung và cầu có phải hai mặt đối lập tạo thành mâu thuẫn biện chứng của thị trường không? Tại sao?",
+                "options": [
+                    "Đúng. Vì cung và cầu vừa có xu hướng đối lập nhau, vừa là điều kiện tồn tại của nhau.",
+                    "Đúng. Nhưng không là điều kiện tồn tại của nhau.",
+                    "Sai. Vì nó không là điều kiện tồn tại của nhau.",
+                    "Sai. Vì cung và cầu vừa có xu hướng đối lập nhau, vừa là điều kiện tồn tại của nhau."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 16,
+                "question": "\"Điền thêm từ để hoàn thiện nhận định sau đây và xác định đó là nhận định của ai? \"Điểm khác biệt căn bản giữa xã hội loài người với xã hội loài vật là ở chỗ: loài vật may mắn lắm chỉ hái lượm trong khi con người lại…\"",
+                "options": [
+                    "Biết sáng tạo/Ph.Ăngghen.",
+                    "Sản xuất/Ph.Ăngghen.",
+                    "Tiến hành lao động/C.Mác.",
+                    "Tư duy/V.I.Lênin."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 17,
+                "question": "Khi xuất hiện mâu thuẫn gay gắt giữa lực lượng sản xuất và quan hệ sản xuất thì:",
+                "options": [
+                    "Quan hệ sản xuất sẽ tự động thay đổi cho phù hợp với lực lượng sản xuất.",
+                    "Quan hệ sản xuất không thể thay đổi được vì nó được bảo vệ bằng quyền lực nhà nước và chính đảng cầm quyền.",
+                    "Lực lượng sản xuất phải tự điều chỉnh cho phù hợp với quan hệ sản xuất.",
+                    "Quan hệ sản xuất được thay đổi thông qua những cuộc cải cách và các cuộc cách mạng xã hội."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 18,
+                "question": "Sự thống nhất giữa lực lượng sản xuất ở một trình độ nhất định và quan hệ sản xuất tương ứng tạo thành:",
+                "options": [
+                    "Hình thái KT-XH",
+                    "Phương thức sản xuất.",
+                    "Cơ sở hạ tầng.",
+                    "Kiến trúc thượng tầng."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 19,
+                "question": "Quan niệm cho rằng: \"suy nghĩ của những người sống trong túp lều tranh luôn luôn khác với suy nghĩ của những kẻ sống trong cung điện\" là quan niệm của:",
+                "options": [
+                    "Chủ nghĩa duy vật biện chứng.",
+                    "Chủ nghĩa duy vật siêu hình.",
+                    "Chủ nghĩa duy tâm chủ quan.",
+                    "Chủ nghĩa duy vật lịch sử."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 20,
+                "question": "Chọn câu trả lời đúng theo vận dụng phương pháp luận duy vật lịch sử: Tâm lý, tính cách tiểu nông của người Việt Nam truyền thống căn bản là do:",
+                "options": [
+                    "Bản tính cố hữu của người Việt.",
+                    "Bị phong kiến, đế quốc nhiều thế kỷ áp bức",
+                    "Phương thức sản xuất tiểu nông, lạc hậu tồn tại lâu dài trong lịch sử.",
+                    "Điều kiện tổ chức dân cư khép kín của các làng, xã."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 21,
+                "question": "Bài học lớn nhất trong Văn kiện Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam là bài học nào?",
+                "options": [
+                    "Tôn trọng và hành động theo quy luật.",
+                    "Kết hợp sức mạnh dân tộc và thời đại.",
+                    "Nâng cao sức chiến đấu của Đảng.",
+                    "Đảng phải quán triệt tư tưởng: Lấy dân làm gốc."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 22,
+                "question": "Vì sao hàng hoá có hai thuộc tính là giá trị và giá trị sử dụng?",
+                "options": [
+                    "Vì lao động sản xuất hàng hoá có tính hai mặt: lao động cụ thể và lao động trừu tượng.",
+                    "Vì lao động sản xuất hàng hoá có tính hai mặt: lao động giản đơn và lao động phức tạp.",
+                    "Vì lao động sản xuất hàng hoá có tính hai mặt: lao động quá khứ và lao động tương lai.",
+                    "Vì nhu cầu trao đổi hàng hoá."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 23,
+                "question": "Tiền tệ có mấy chức năng?",
+                "options": [
+                    "Hai chức năng.",
+                    "Ba chức năng",
+                    "Bốn chức năng.",
+                    "Năm chức năng."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 24,
+                "question": "Quy luật căn bản của sản xuất và lưu thông hàng hoá là quy luật nào?",
+                "options": [
+                    "Quy luật cạnh tranh.",
+                    "Quy luật cung - cầu.",
+                    "Quy luật lưu thông tiền tệ.",
+                    "Quy luật giá trị."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 25,
+                "question": "Công thức chung của tư bản là?",
+                "options": [
+                    "H - T - H",
+                    "T - H - T'",
+                    "H - T - H'",
+                    "T - H - T"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 26,
+                "question": "Điều kiện để sức lao động trở thành hàng hoá là gì?",
+                "options": [
+                    "Người lao động không được tự do và không có tư liệu sản xuất.",
+                    "Người lao động phải được tự do; người lao động không có tư liệu sản xuất.",
+                    "Người lao động phải được tự do; người lao động có tư liệu sản xuất.",
+                    "Người lao động phải được tự do và không có tư liệu tiêu dùng."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 27,
+                "question": "Giá trị thặng dư tuyệt đối là giá trị thặng dư có được do:",
+                "options": [
+                    "Kéo dài ngày lao động hoặc tăng cường độ lao động.",
+                    "Thêm ngày lao động hoặc tăng năng xuất lao động.",
+                    "Thêm ngày lao động hoặc tăng thời gian lao động.",
+                    "Giảm ngày lao động hoặc tăng cường độ lao động."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 28,
+                "question": "Chủ nghĩa tư bản tự do cạnh tranh và chủ nghĩa tư bản độc quyền khác nhau về bản chất.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 29,
+                "question": "Yếu tố nào giữ vai trò quyết định đối với tính cách mạng triệt để nhất của giai cấp công nhân?",
+                "options": [
+                    "Bị bóc lột nặng nề nhất trong chủ nghĩa tư bản.",
+                    "Bị áp bức nặng nề nhất.",
+                    "Nghèo khổ nhất trong chủ nghĩa tư bản.",
+                    "Đại diện cho xã hội tương lai."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 30,
+                "question": "Điều kiện nào quyết định nhất cho sự xuất hiện của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+                "options": [
+                    "Sự phát triển mạnh của lực lượng sản xuất dưới chủ nghĩa tư bản.",
+                    "Mâu thuẫn giai cấp trở nên gay gắt.",
+                    "Xây dựng được Đảng Cộng sản.",
+                    "Gai cấp công nhân giành được chính quyền."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 31,
+                "question": "Điền vào chỗ trống: Con người xã hội chủ nghĩa là con người có tinh thần và năng lực xây dựng thành công chủ nghĩa xã hội; là con người lao động mới; là con người có tinh thần…; là con người có lối sống tình nghĩa, có tính cộng đồng cao.",
+                "options": [
+                    "Yêu nước chân chính và tinh thần quốc tế trong sáng.",
+                    "Yêu nước và tinh thần quốc tế vô sản.",
+                    "Yêu nước nồng nàn và tinh thần quốc tế vô tư.",
+                    "Tinh thần quốc tế xã hội chủ nghĩa."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 32,
+                "question": "Điền vào chỗ trống: Quyền dân tộc tự quyết là quyền… đối với vận mệnh của dân tộc mình.",
+                "options": [
+                    "Tự do",
+                    "Làm chủ.",
+                    "Tự liệu.",
+                    "Tự lực"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 33,
+                "question": "Nhận định sau đây đúng hay sai: Quan điểm toàn diện đối lập với quan điểm lịch sử cụ thể.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 34,
+                "question": "Nhận định sau đây đúng hay sai: Hạt thóc khi gieo xuống đất có thể nảy mầm thành cây lúa. Vậy hạt thóc vừa là khả năng vừa là hiện thực.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 35,
+                "question": "Nhân tố cơ bản, trực tiếp tạo thành nguồn gốc xã hội của ý thức là lao động và ngôn ngữ.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 36,
+                "question": "Nhận định sau đây đúng hay sai: Tiền tệ có 5 chức năng.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 37,
+                "question": "Nhận định sau đây đúng hay sai: Công thức chung của tư bản là: T - H - T'",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 38,
+                "question": "Nhận định sau đây đúng hay sai: Chủ nghĩa tư bản tự do cạnh tranh và chủ nghĩa tư bản độc quyền khác nhau về bản chất.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 39,
+                "question": "Nhận định sau đây đúng hay sai: Yếu tố giữ vai trò quyết định đối với tính cách mạng triệt để nhất của giai cấp công nhân đó là giai cấp công nhân là lực lượng đại diện cho xã hội tương lai.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 40,
+                "question": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là: Tôn trọng, bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng của nhân dân.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Bài 2",
+        "description": "Kiểm tra kiến thức về tư tưởng Hồ Chí Minh và vai trò của nó trong cách mạng Việt Nam",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Khái niệm tư tưởng Hồ Chí Minh lần đầu tiên được sử dụng trong Văn kiện Đại hội đại biểu toàn quốc lần thứ mấy của Đảng Cộng sản Việt Nam?",
+                "options": [
+                    "Lần thứ VII.",
+                    "Lần thứ X.",
+                    "Lần thứ XI.",
+                    "Lần thứ IV."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 2,
+                "question": "Tư tưởng Hồ Chí Minh có vị trí như thế nào trong hệ thống tư tưởng của Đảng Cộng sản Việt Nam?",
+                "options": [
+                    "Là một bộ phận trong hệ thống tư tưởng của Đảng.",
+                    "Là bộ phận quan trọng trong hệ thống tư tưởng của Đảng.",
+                    "Là bộ phận rất quan trọng trong tư tưởng của Đảng.",
+                    "Là bộ phận nền tảng, kim chỉ nam cho hành động của Đảng."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 3,
+                "question": "Nguyễn Ái Quốc đã gửi bản \"Yêu sách của nhân dân An Nam\" tới Hội nghị Versailles vào ngày tháng năm nào?",
+                "options": [
+                    "1917-06-18",
+                    "1916-06-18",
+                    "1915-06-18",
+                    "1919-06-18"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 4,
+                "question": "Câu \"…Chủ trương làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản\" được trích từ bài viết nào của Hồ Chí Minh?",
+                "options": [
+                    "Đường Kách mệnh.",
+                    "Chính cương vắn tắt của Đảng.",
+                    "Chương trình của Đảng.",
+                    "Cương lĩnh chính trị."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 5,
+                "question": "\"Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do\". Câu trên được Hồ Chí Minh nói đến trong văn kiện nào?",
+                "options": [
+                    "Tuyên ngôn độc lập.",
+                    "Bản án chế độ thực dân Pháp.",
+                    "Đường Kách mệnh.",
+                    "Lời kêu gọi toàn quốc kháng chiến."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 6,
+                "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi phải đi theo con đường nào?",
+                "options": [
+                    "Cách mạng tư sản.",
+                    "Cách mạng vô sản.",
+                    "Cách mạng XHCN",
+                    "Cách mạng ruộng đất."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 7,
+                "question": "Chọn cụm từ đúng điền vào chỗ trống: \"Việt Nam muốn làm bạn với..., không gây thù oán với một ai.\"",
+                "options": [
+                    "Các nước xã hội chủ nghĩa.",
+                    "Các dân tộc thuộc địa, bị áp bức.",
+                    "Mọi nước dân chủ.",
+                    "Mọi nước nghèo."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 8,
+                "question": "Hồ Chí Minh đã dùng hình tượng nào dưới đây để chỉ chủ nghĩa tư bản?",
+                "options": [
+                    "Con bạch tuộc.",
+                    "Con đỉa hai vòi.",
+                    "Chim đại bàng.",
+                    "Chim cánh cụt."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 9,
+                "question": "Theo Tư tưởng Hồ Chí Minh, nguyên tắc phân phối chủ yếu trong chủ nghĩa xã hội là gì?",
+                "options": [
+                    "Làm theo năng lực, hưởng theo nhu cầu.",
+                    "Làm theo năng lực, hưởng theo lao động.",
+                    "Phân phối cho tất cả mọi người.",
+                    "Làm ít hưởng vừa đủ."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 10,
+                "question": "Theo Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội trước hết cần có cái gì?",
+                "options": [
+                    "Khoa học – kỹ thuật.",
+                    "Kinh tế phát triển.",
+                    "Con người toàn diện.",
+                    "Con người xã hội chủ nghĩa."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 11,
+                "question": "Điền vào chỗ trống, hoàn chỉnh thơ của Hồ Chí Minh: \"Rằng đây bốn biển một nhà… đều là anh em.\"",
+                "options": [
+                    "lao động thế giới.",
+                    "bốn phương vô sản.",
+                    "tứ hải.",
+                    "vàng đen trắng đỏ."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 12,
+                "question": "Chọn cụm từ thích hợp điền vào chỗ trống: \"Văn hóa… cho quốc dân đi.\"",
+                "options": [
+                    "Mở đường.",
+                    "Soi lối",
+                    "Soi đường.",
+                    "Dẫn lối."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 13,
+                "question": "Điền vào chỗ trống để hoàn thiện câu sau: Theo Hồ Chí Minh: \"… mở ra con đường giải phóng cho các dân tộc và cả loài người, mở đầu một thời đại mới trong lịch sử.\"",
+                "options": [
+                    "Cách mạng tư sản Pháp.",
+                    "Cách mạng Tân Hợi.",
+                    "Cách mạng Tháng Mười.",
+                    "Cách mạng Tháng Tám."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 14,
+                "question": "Chọn câu trả lời đúng nhất với tư tưởng Hồ Chí Minh:",
+                "options": [
+                    "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng sáng tạo chủ nghĩa Mác – Lênin vào điều kiện thực tế ở nước ta.",
+                    "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác – Lênin vào điều kiện thực tế ở nước ta.",
+                    "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác – Lênin vào điều kiện thực tế ở nước ta.",
+                    "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng chủ nghĩa Mác – Lênin vào điều kiện lịch sử cụ thể ở nước ta trong thời kỳ xây dựng xã hội chủ nghĩa."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 15,
+                "question": "Chọn trả lời đúng theo tư tưởng Hồ Chí Minh: Để tranh thủ sự giúp đỡ của các nước xã hội chủ nghĩa trong đấu tranh cách mạng, cần coi trọng nhân tố:",
+                "options": [
+                    "Tự lực cánh sinh, dựa vào sức mình là chính.",
+                    "Có đường lối độc lập tự chủ là chính.",
+                    "Dựa vào nguồn lực ngoại sinh là chính.",
+                    "Dựa vào tất cả các nguồn lực."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 16,
+                "question": "\"Ỷ Pháp cầu tiến bộ chẳng khác nào xin giặc rủ lòng thương\" là câu Nguyễn Ái Quốc nói về chủ trương cứu nước của ai?",
+                "options": [
+                    "Vua Bảo Đại.",
+                    "Võ Nguyên Giáp",
+                    "Phan Chu Trinh.",
+                    "Phan Bội Châu."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 17,
+                "question": "\"Đưa hổ cửa trước, rước beo cửa sau\" là câu Nguyễn Ái Quốc nói về chủ trương cứu nước của ai?",
+                "options": [
+                    "Vua Bảo Đại.",
+                    "Võ Nguyên Giáp",
+                    "Ngô Đình Diệm",
+                    "Phan Bội Châu."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 18,
+                "question": "Sau khi tìm đường cứu nước, lần đầu tiên Bác Hồ về nước vào thời gian nào?",
+                "options": [
+                    "1941",
+                    "1945",
+                    "1930",
+                    "1931"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 19,
+                "question": "\"Luận cương của V.I. Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao. Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng tối mà tôi nói to lên như đang nói trước quần chúng đông đảo: Hỡi đồng bào bị đọa đày đau khổ? Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng của chúng ta.\" Câu nói này của Nguyễn Ái Quốc được trích từ tác phẩm nào?",
+                "options": [
+                    "Cuộc đời hoạt động của Hồ Chí Minh.",
+                    "Con đường dẫn tôi đến với chủ nghĩa Mác-Lênin.",
+                    "Lênin vĩ đại.",
+                    "Cách mạng Tháng Mười và con đường vĩ đại."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 20,
+                "question": "Thay mặt Hội những người Việt Nam yêu nước tại Pháp, Nguyễn Ái Quốc gửi bản “Yêu sách của nhân dân Việt Nam” tới Hội Nghị Versailles. Bản Yêu sách gồm mấy điểm?",
+                "options": [
+                    "6 điểm.",
+                    "9 điểm.",
+                    "8 điểm.",
+                    "3 điểm."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 21,
+                "question": "Theo Hồ Chí Minh, ưu điểm lớn nhất của chủ nghĩa Mác-Lênin là gì?",
+                "options": [
+                    "Bản chất cách mạng.",
+                    "Bản chất khoa học.",
+                    "Phương pháp làm việc biện chứng.",
+                    "Chủ nghĩa nhân đạo chiến đấu."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 22,
+                "question": "Theo Hồ Chí Minh, ưu điểm lớn nhất của chủ nghĩa Tam dân của Tôn Trung Sơn đối với nước ta là:",
+                "options": [
+                    "Chống phong kiến.",
+                    "Đấu tranh vì tự do, dân chủ.",
+                    "Phù hợp với điều kiện thực tế nước ta.",
+                    "Đem lại độc lập, tự do."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 23,
+                "question": "Cơ quan ngôn luận của Tổ chức Việt Nam Thanh niên cách mạng đồng chí hội là tờ báo?",
+                "options": [
+                    "Người cùng khổ.",
+                    "Thanh niên.",
+                    "Nhân đạo.",
+                    "Lao động."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 24,
+                "question": "Theo Hồ Chí Minh, “căn bệnh” nào là “căn bệnh mẹ đẻ ra hàng trăm thứ căn bệnh con nguy hiểm khác”?",
+                "options": [
+                    "Chủ nghĩa cá nhân.",
+                    "Tham ô.",
+                    "Lãng phí.",
+                    "Quan liêu."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 25,
+                "question": "Chọn từ thích hợp điền vào chỗ trống để hoàn thiện câu: Văn kiện Đại hội XI của Đảng chỉ rõ: \"Tư tưởng Hồ Chí Minh… cho cuộc đấu tranh của nhân dân ta giành thắng lợi, là …to lớn của Đảng và của dân tộc ta.\"",
+                "options": [
+                    "soi đường/ tài sản tinh thần.",
+                    "mở đường/ tài sản tinh thần.",
+                    "chỉ đường/ tài sản tinh thần.",
+                    "dẫn đường/ tài sản tinh thần."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 26,
+                "question": "Hồ Chí Minh đã dùng hình tượng nào dưới đây để mô tả mối quan hệ giữa cách mạng giải phóng các dân tộc các nước thuộc địa và cách mạng vô sản ở chính quốc?",
+                "options": [
+                    "Con bạch tuộc.",
+                    "Hai cánh của con chim.",
+                    "Hai con chim đại bàng.",
+                    "Con đỉa hai vòi."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 27,
+                "question": "Cách mạng giải phóng dân tộc trong thời đại mới phải do Đảng Cộng sản lãnh đạo để:",
+                "options": [
+                    "Giác ngộ, tổ chức, tập hợp dân chúng; đoàn kết với vô sản và các dân tộc bị áp bức trên thế giới.",
+                    "Đoàn kết với vô sản và các dân tộc bị áp bức trên thế giới.",
+                    "Đảng thay giai cấp công nhân giành chính quyền về tay nhân dân.",
+                    "Lập ra chính quyền của dân, do dân, vì dân."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 28,
+                "question": "Theo Hồ Chí Minh, để phát huy sức mạnh cá nhân người lao động, cần phải:",
+                "options": [
+                    "Tác động vào nhu cầu và lợi ích thiết thân của con người.",
+                    "Tác động vào động lực chính trị - tinh thần của con người.",
+                    "Tác động vào sở thích cá nhân của con người.",
+                    "Tác động vào nguyện vọng và mong muốn của con người."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 29,
+                "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, Hồ Chí Minh chủ trương đối xử với giai cấp tư sản dân tộc như thế nào?",
+                "options": [
+                    "Không xóa bỏ quyền sở hữu về tư liệu sản xuất của họ.",
+                    "Xóa bỏ quyền sở hữu về tư liệu sản xuất của họ.",
+                    "Đưa họ vào kinh tế tập thể.",
+                    "Đánh đổ họ với tư cách là một giai cấp bóc lột."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 30,
+                "question": "Dưới đây là một số luận điểm của Hồ Chí Minh về nhà nước của dân, do dân, vì dân. Luận điểm nào trực tiếp thể hiện tư tưởng nhà nước vì dân?",
+                "options": [
+                    "Nước ta là nước dân chủ.",
+                    "Cách mệnh rồi thì quyền trao cho dân chúng số nhiều.",
+                    "Hễ chính phủ nào mà có hại cho dân chúng thì dân chúng phải đạp đổ.",
+                    "Việc gì có lợi cho dân ta phải hết sức làm. Việc gì có hại cho dân, ta phải hết sức tránh."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 31,
+                "question": "Luận điểm nào sau đây là sai? Theo tư tưởng Hồ Chí Minh, nhà nước vì dân là nhà nước?",
+                "options": [
+                    "Tất cả đều vì lợi ích của nhân dân.",
+                    "Do nhân dân làm chủ.",
+                    "Phục vụ nhân dân.",
+                    "Chăm lo mọi mặt đời sống nhân dân."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 32,
+                "question": "Điền vào chỗ trống đúng theo tư tưởng Hồ Chí Minh: \"Làm cách mệnh rồi thì quyền trao cho... chớ để trong tay một bọn ít người\".",
+                "options": [
+                    "dân chúng số nhiều.",
+                    "giai cấp công nhân.",
+                    "giai cấp nông dân.",
+                    "giai cấp tư sản dân tộc."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 33,
+                "question": "Phẩm chất đạo đức cơ bản của con người Việt Nam trong thời đại mới theo tư tưởng Hồ Chí Minh là:",
+                "options": [
+                    "Trung với nước, hiếu với dân; Yêu thương con người.",
+                    "Cần, kiệm, liêm, chính, chí công vô tư.",
+                    "Có tinh thần quốc tế trong sáng.",
+                    "Tất cả các đáp án trên đều đúng."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 34,
+                "question": "Bác Hồ viết: \"Nay chúng ta đã giành được quyền độc lập, một trong những công việc phải thực hiện cấp tốc trong lúc này, là nâng cao dân trí… Phụ nữ lại càng phải đi học, đã lâu chị em bị kìm hãm, đây là lúc chị em phải cố gắng để kịp nam giới\". Đoạn văn trên trích từ văn bản nào của Hồ Chí Minh?",
+                "options": [
+                    "Chống nạn thất học.",
+                    "Sắc lệnh thành lập Nha bình dân học vụ.",
+                    "Đời sống mới.",
+                    "Sắc lệnh thành lập Hội đồng cố vấn học chính."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 35,
+                "question": "Chọn cụm từ thích hợp điền vào chỗ trống: Chủ tịch Hồ Chí Minh nói: \"Một dân tộc... là một dân tộc…\"",
+                "options": [
+                    "dốt/hèn",
+                    "dốt/yếu",
+                    "yếu/dốt",
+                    "yếu/hèn"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 36,
+                "question": "Nhận định sau đây đúng hay sai: Tư tưởng Hồ Chí Minh là bộ phận nền tảng, kim chỉ nam cho hành động của Đảng Cộng sản Việt Nam.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 37,
+                "question": "Nhận định sau đây đúng hay sai: Nguyễn Ái Quốc đã gửi bản \"Yêu sách của nhân dân An Nam\" tới Hội nghị Versailles vào ngày 18 tháng 06 năm 1918.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 38,
+                "question": "Câu: \"…Chủ trương làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản\" được trích từ \"Chính cương vắn tắt của Đảng\" của Hồ Chí Minh đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 39,
+                "question": "Nhận định sau đây đúng hay sai: Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi phải đi theo con đường cách mạng vô sản.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 40,
+                "question": "Nhận định sau đây đúng hay sai: \"Ỷ Pháp cầu tiến bộ chẳng khác nào xin giặc rủ lòng thương\" là câu Nguyễn Ái Quốc nói về chủ trương cứu nước của Phan Chu Trinh.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 41,
+                "question": "Nhận định sau đây đúng hay sai: \"Đưa hổ cửa trước, rước beo cửa sau\" là câu Nguyễn Ái Quốc nói về chủ trương cứu nước của Phan Chu Trinh.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 42,
+                "question": "Nhận định sau đây đúng hay sai: Sau khi tìm đường cứu nước, lần đầu tiên Bác Hồ về nước vào ngày 28 tháng 1 năm 1941.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 43,
+                "question": "Nhận định sau đây đúng hay sai: Thay mặt Hội những người Việt Nam yêu nước tại Pháp, Nguyễn Ái Quốc gửi bản “Yêu sách của nhân dân Việt Nam” tới Hội Nghị Versailles. Bản Yêu sách gồm 6 điểm.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 44,
+                "question": "Nhận định sau đây đúng hay sai: Cơ quan ngôn luận của Tổ chức Việt Nam Thanh niên cách mạng đồng chí hội là tờ báo Thanh niên.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 45,
+                "question": "Nhận định sau đây đúng hay sai: Cách mạng giải phóng dân tộc trong thời đại mới phải do Đảng Cộng sản lãnh đạo để giác ngộ, tổ chức, tập hợp dân chúng; đoàn kết với vô sản và các dân tộc bị áp bức trên thế giới.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Bài 3",
+        "description": "Kiểm tra kiến thức lịch sử Việt Nam",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Ngày 5-6-1911 đã diễn ra sự kiện lịch sử quan trọng nào?",
+                "options": [
+                    "Việt Nam Quang phục hội được thành lập",
+                    "Nguyễn Tất Thành ra đi tìm đường cứu nước",
+                    "Phong trào kháng thuế ở Trung Kì bùng nổ",
+                    "Trường Đông Kinh nghĩa thục thành lập"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 2,
+                "question": "Điểm đến đầu tiên trong hành trình tìm đường cứu nước của Nguyễn Tất Thành là quốc gia nào?",
+                "options": ["Pháp", "Mỹ", "Anh", "Liên Xô"],
+                "correctAnswer": 0
+            },
+            {
+                "id": 3,
+                "question": "Hiệp ước nào đánh dấu sự đầu hàng hoàn toàn của triều đình phong kiến nhà Nguyễn trước thế lực xâm lăng?",
+                "options": ["Hắc-măng", "Pa-tơ-nốt", "Nhâm Tuất", "Giáp Tuất"],
+                "correctAnswer": 1
+            },
+            {
+                "id": 4,
+                "question": "Duyên cớ để liên quân Pháp- Tây Ban Nha nổ súng xâm lược Việt Nam ngày 1-9-1858 là",
+                "options": [
+                    "Chính sách cấm đạo, giết đạo của nhà Nguyễn",
+                    "Nhu cầu về thị trường, nguyên liệu, nhân công",
+                    "Triều đình Nguyễn từ chối nhận quốc thư của chính phủ Pháp",
+                    "Triều đình Nguyễn không cho thương nhân châu Âu đến Việt Nam buôn bán"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 5,
+                "question": "Sự thất bại của phong trào yêu nước nào đã chứng tỏ độc lập dân tộc không gắn liền với chế độ phong kiến?",
+                "options": [
+                    "Phong trào Cần Vương",
+                    "Phong trào nông dân Yên Thế",
+                    "Cuộc đấu tranh của đồng bào dân tộc thiểu số",
+                    "Khởi nghĩa Thái Nguyên"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 6,
+                "question": "Từ chính sách ngoại giao sai lầm của nhà Nguyễn, Việt Nam rút ra bài học gì trong công cuộc đổi mới hiện nay?",
+                "options": [
+                    "Cải cách toàn diện triệt để.",
+                    "Tự do tôn giáo.",
+                    "Mở cửa cải cách, tự do tín ngưỡng.",
+                    "Đổi mới phát triển kinh tế gắn với mở cửa, tăng cường hợp tác để phát triển toàn diện."
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 7,
+                "question": "Đảng cộng sản Việt Nam lãnh đạo nhân dân giải",
+                "options": [
+                    "Khuyếch trương hình ảnh hiện đại của nền văn minh Pháp.",
+                    "Tạo điều kiện đi lại thuận lợi cho người dân.",
+                    "Phục vụ cho công cuộc khai thác, bóc lột và quân sự.",
+                    "Tạo điều kiện thuận lợi cho phát triển ngoại thương."
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 8,
+                "question": "Cách mạng tháng Tám năm 1945 là kết quả của bao nhiêu năm đấu tranh anh dũng của nhân dân ta dưới sự lãnh đạo của Đảng?",
+                "options": ["5 năm", "10 năm", "15 năm", "20 năm"],
+                "correctAnswer": 2
+            },
+            {
+                "id": 9,
+                "question": "Từ năm 1954 đến 1975 Đảng lãnh đạo Việt Nam đánh thắng kẻ thù nào?",
+                "options": ["Thực Dân Pháp", "Phát Xít Đức", "Đế Quốc Mỹ", "Phong kiến"],
+                "correctAnswer": 2
+            },
+            {
+                "id": 10,
+                "question": "Pháp xâm lược Việt Nam, xã hội Việt Nam tồn tại nhiều mâu thuẫn, nhưng nổi lên 2 mâu thuẫn: Giữa dân tộc Việt Nam với thực dân Pháp; Giữa nhân dân Việt Nam (chủ yếu là nông dân) với địa chủ phong kiến. Nhận định trên đúng hay sai?",
+                "options": ["Đúng", "Sai"],
+                "correctAnswer": 0
+            },
+            {
+                "id": 11,
+                "question": "“Khi mâu thuẫn với Pháp và phong kiến có ý thức dân tộc và dân chủ; nhưng do lo sợ bị cách mạng đánh đổ họ thường dao động ngả nghiêng, dễ cải lương, thoả hiệp”. Đây là quan điểm nhằm chỉ giai cấp, tầng lớp nào?",
+                "options": ["Nông dân", "Công nhân", "Giai cấp Tư sản", "Tiểu tư sản"],
+                "correctAnswer": 2
+            },
+            {
+                "id": 12,
+                "question": "Nguyễn Tất Thành ra đi tìm đường cứu nước vào lúc chủ nghĩa tư bản đang tồn tại như thế nào?",
+                "options": ["Còn non trẻ", "Vừa lật đổ chế độ phong kiến", "Đoàn kết", "Đã trở thành chủ nghĩa đế quốc"],
+                "correctAnswer": 3
+            },
+            {
+                "id": 13,
+                "question": "Hội nghị thành lập Đảng ngày 03-02-1930 diễn ra tại Hương Cảng (Trung Quốc) đã hợp nhất 3 tổ chức cộng sản thành lập ra Đảng Cộng sản nào?",
+                "options": ["Đảng Cộng sản Trung Quốc", "Đảng Cộng sản Việt Nam", "Đảng Cộng sản Lào", "Đông dương cộng sản đảng"],
+                "correctAnswer": 1
+            },
+            {
+                "id": 14,
+                "question": "Kẻ thù chính của dân tộc ta trong giai đoạn 1858 - 1954 không phải là Pháp đúng hay sai?",
+                "options": ["Đúng", "Sai"],
+                "correctAnswer": 1
+            },
+            {
+                "id": 15,
+                "question": "Nguyễn Ái Quốc đóng vai trò như thế nào tại hội nghị thành lập Đảng (2-1930)?",
+                "options": ["Thành viên cố vấn", "Chủ trì hội nghị thành lập Đảng.", "Đại biểu", "Đại diện An Nam cộng sản đảng"],
+                "correctAnswer": 1
+            },
+            {
+                "id": 16,
+                "question": "Tác phẩm ghi lại những bài giảng của Nguyễn Ái Quốc cho các lớp đào tạo cán bộ tại Quảng Châu có tên gọi là gì?",
+                "options": ["Sơ thảo luận cương của Lenin", "Nhật ký trong tù", "Yêu sách về dân tộc", "Đường Kach Mệnh"],
+                "correctAnswer": 3
+            },
+            {
+                "id": 17,
+                "question": "Trong giai đoạn 1925-1930, Nguyễn Ái Quốc đang hoạt động cách mạng ở đâu?",
+                "options": ["Trung Quốc", "Pháp", "Anh", "Liên Xô"],
+                "correctAnswer": 0
+            },
+            {
+                "id": 18,
+                "question": "“Dù màu da có khác nhau, trên đời này chỉ có hai giống người: Giống người bóc lột và giống người bị bóc lột”. Đây là nhận định của ai?",
+                "options": ["Phan Bội Châu", "Phan Châu Trinh", "Nguyễn Tất Thành", "Trần Phú"],
+                "correctAnswer": 2
+            },
+            {
+                "id": 19,
+                "question": "Ngày 18/06/1919, Nguyễn Ái Quốc đã thay mặt những người Việt Nam yêu nước tại Pháp gửi bản yêu sách tới hội nghị nào?",
+                "options": ["Hội nghị Vécxây", "Hội nghị Pari", "Hội nghị Yalta", "Hội nghị Tehran"],
+                "correctAnswer": 0
+            },
+            {
+                "id": 20,
+                "question": "Tại hội nghị thành lập Đảng Cộng sản Việt Nam đã tiến hành hợp nhất các tổ chức cộng sản nào?",
+                "options": [
+                    "Đông Dương Cộng sản đảng và An Nam Cộng sản đảng",
+                    "Đông Dương Cộng sản liên đoàn và An Nam Cộng sản đảng",
+                    "An Nam Cộng sản đảng, Đông Dương Cộng sản đảng",
+                    "An Nam Cộng sản đảng, Đông Dương Cộng sản đảng, Đông Dương Cộng sản liên đoàn"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 21,
+                "question": "Ngày 28-1-1941 (tức mồng 2 Tết Tân Tỵ), Nguyễn Ái Quốc đã trở về Tổ quốc trực tiếp lãnh đạo cách mạng Việt Nam sau bao nhiêu năm bôn ba tìm đường cứu nước?",
+                "options": ["25 năm", "30 năm", "35 năm", "40 năm"],
+                "correctAnswer": 1
+            },
+            {
+                "id": 22,
+                "question": "Dân tộc ta dưới sự lãnh đạo của Đảng mà đứng đầu là lãnh tụ Hồ Chí Minh đã vùng lên phá tan xiềng xích nô lệ hơn 80 năm của chế độ thực dân, xóa bỏ chế độ phong kiến hàng nghìn năm, lập nên nước Việt Nam dân chủ cộng hòa thông qua sự kiện nào?",
+                "options": [
+                    "Phong trào cách mạng 1930-1931",
+                    "Phong trào dân chủ 1936-1939",
+                    "Phong trào 1939-1941",
+                    "Cách mạng Tháng Tám 1945"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 23,
+                "question": "Tháng 6/1925, Nguyễn Ái Quốc đã thành lập",
+                "options": [
+                    "Hội liên hiệp thuộc địa",
+                    "Hội Việt Nam cách mạng thanh niên",
+                    "Đông Dương Cộng sản đảng",
+                    "An Nam Cộng sản đảng"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 24,
+                "question": "Trong giai đoạn 1954-1975, kẻ thù chính của dân tộc Việt Nam là?",
+                "options": ["Thực dân Pháp", "Đế quốc Mỹ", "Trung Quốc", "Nhật Bản"],
+                "correctAnswer": 1
+            },
+            {
+                "id": 25,
+                "question": "Cương lĩnh chính trị đầu tiên của Đảng cộng sản Việt Nam chủ trương thực hiện các cuộc cách mạng tư sản dân quyền cách mạng, thổ địa cách mạng, cách mạng xã hội chủ nghĩa đúng hay sai?",
+                "options": ["Đúng", "Sai"],
+                "correctAnswer": 0
+            },
+            {
+                "id": 26,
+                "question": "Lực lượng cách mạng chủ yếu được xác định trong Cương lĩnh chính trị đầu tiên của Đảng bao gồm",
+                "options": [
+                    "Công nhân, nông dân, tiểu tư sản, trí thức.",
+                    "Công nhân, nông dân và tiểu địa chủ.",
+                    "Công nhân, nông dân, tư sản dân tộc.",
+                    "Công nhân, nông dân, tư sản."
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 27,
+                "question": "Đảng Cộng sản Việt Nam ra đời là bước ngoặt vĩ đại của cách mạng Việt Nam vì đã chấm dứt",
+                "options": [
+                    "Vai trò lãnh đạo của giai cấp tư sản",
+                    "Thời kì khủng hoảng về đường lối và giai cấp lãnh đạo",
+                    "Vai trò lãnh đạo của giai cấp phong kiến Việt Nam",
+                    "Hoạt động của Hội Việt Nam cách mạng Thanh niên"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 28,
+                "question": "Cương lĩnh chính trị (2-1930) của Đảng Cộng sản Việt Nam xác định giai cấp lãnh đạo cách mạng là",
+                "options": ["Nông dân", "Tư sản", "Công nhân", "Trí thức"],
+                "correctAnswer": 2
+            },
+            {
+                "id": 29,
+                "question": "Thắng lợi của cuộc kháng chiến chống Mỹ cứu nước là kết quả tổng hợp của nhiều nhân tố trong đó sự lãnh đạo đúng đắn của Đảng Cộng sản Việt Nam là nhân tố quyết định hàng đầu, đúng hay sai?",
+                "options": ["Đúng", "Sai"],
+                "correctAnswer": 0
+            },
+            {
+                "id": 30,
+                "question": "Hiệp định Giơ-ne-ve dẫn đến chấm dứt sự hiện diện của quân đội Pháp trên bán đảo Đông Dương được ký kết vào năm?",
+                "options": ["1945", "1946", "1954", "1975"],
+                "correctAnswer": 2
+            },
+            {
+                "id": 31,
+                "question": "Chánh cương vắn tắt, sách lược vắn tắt, chương trình tóm tắt được thông qua tại hội nghị nào?",
+                "options": [
+                    "Hội nghị Diên Hồng",
+                    "Hội nghị hợp nhất các tổ chức cộng sản",
+                    "Hội nghị Ianta",
+                    "Hội nghị Giơ-ne-vơ"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 32,
+                "question": "Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam là ai?",
+                "options": [
+                    "Nguyễn Ái Quốc",
+                    "Trần Phú",
+                    "Nguyễn Phong Sắc",
+                    "Hoàng Quốc Việt"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 33,
+                "question": "Tổ chức nào là tiền thân của Đảng cộng sản Việt Nam?",
+                "options": [
+                    "Hội cứu quốc",
+                    "Hội Việt Nam cách mạng Thanh Niên",
+                    "Hội Việt Nam yêu nước",
+                    "Hội những người Việt Nam yêu nước"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 34,
+                "question": "Người đứng đầu Đảng Cộng Sản Việt Nam hiện nay là ai?",
+                "options": [
+                    "Tổng bí thư Nguyễn Phú Trọng",
+                    "Đồng Chí Đỗ Mười",
+                    "Chủ tịch Quốc hội Vương Đình Huệ",
+                    "Chủ tịch Hồ Chí Minh"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 35,
+                "question": "Hội Nghị thành lập Đảng được diễn ra tại đâu?",
+                "options": ["Cao Bằng", "Nghệ An", "Hà Nội", "Hương Cảng - Trung Quốc"],
+                "correctAnswer": 3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Bài 4",
+        "description": "Kiểm tra kiến thức về đường lối cách mạng của Đảng Cộng sản Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Đảng ta xác định đặc trưng cơ bản của xã hội xã hội chủ nghĩa ở Việt Nam gồm mấy đặc trưng?",
+                "options": ["5", "6", "7", "8"],
+                "correctAnswer": 3
+            },
+            {
+                "id": 2,
+                "question": "Dân chủ là gì?",
+                "options": [
+                    "Dân chủ là phát triển kinh tế - xã hội",
+                    "Dân chủ là một phạm trù văn hóa",
+                    "Dân chủ là một hình thức hay hình thái nhà nước",
+                    "Dân chủ là một phạm trù đạo đức"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 3,
+                "question": "Đâu là bản chất kinh tế của nền dân chủ XHCN?",
+                "options": [
+                    "Quyền lực chính trị thuộc về nhân dân",
+                    "Chế độ sở hữu về những tư liệu sản xuất chủ yếu của toàn xã hội, đáp ứng sự phát triển ngày càng cao của lực lượng sản xuất dựa trên khoa học và công nghệ hiện đại",
+                    "Chế độ tư hữu giữ vai trò chủ đạo",
+                    "Kinh tế nhiều thành phần"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 4,
+                "question": "Đâu là quan niệm đúng và đầy đủ về nhà nước XHCN?",
+                "options": [
+                    "Nhà nước XHCN là nhà nước mà ở đó, sự thống trị chính trị thuộc về giai cấp công nhân, do cách mạng XHCN sản sinh ra và có sứ mệnh xây dựng thành công chủ nghĩa xã hội, đưa nhân dân lao động lên địa vị làm chủ trên tất cả các mặt của đời sống xã hội trong một xã hội phát triển cao – xã hội XHCN",
+                    "Nhà nước XHCN là nhà nước pháp quyền, dựa trên cơ sở của pháp luật quản lý mọi mặt của đời sống xã hội, vì sự phát triển và tiến bộ của xã hội",
+                    "Nhà nước XHCN là nhà nước của giai cấp công nhân và nhân dân lao động, thực hiện quyền dân chủ cho nhân dân",
+                    "Nhà nước XHCN là nhà nước dựa trên nền tảng của khối liên minh công – nông – trí thức"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 5,
+                "question": "Đâu là định nghĩa đúng và đầy đủ về dân chủ?",
+                "options": [
+                    "Dân chủ là một thái tổ chức nhà nước thừa nhận quyền làm chủ của nhân dân",
+                    "Dân chủ là một giá trị phản ánh những quyền cơ bản của con người; là một phạm trù chính trị gắn với hình thức tổ chức nhà nước của giai cấp cầm quyền; là một phạm trù lịch sử gắn với quá trình ra đời, phát triển của lịch sử nhân loại",
+                    "Dân chủ là giá trị phản ánh quyền cơ bản của con người; là kết quả của sự nghiệp đấu tranh của con người vì lợi ích của con người",
+                    "Dân chủ là một giá trị xã hội phản ánh sự nghiệp đấu tranh của con người vì sự phát triển tiến bộ xã hội"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 6,
+                "question": "Mục tiêu chiến lược và lâu dài mà Đảng và nhân dân ta quyết tâm thực hiện là gì?",
+                "options": [
+                    "Dân chủ, văn minh",
+                    "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+                    "Bình đẳng, bác ái, yêu thương giống nòi.",
+                    "Thống nhất đất nước."
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 7,
+                "question": "Đâu là một trong những phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay?",
+                "options": [
+                    "Xây dựng hệ thống chính trị vững mạnh",
+                    "Xây dựng nền giáo dục toàn diện",
+                    "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+                    "Công nghiệp hóa, hiện đại hóa đất nước"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 8,
+                "question": "Mô hình kinh tế tổng quát trong thời kỳ quá độ lên CNXH ở Việt Nam được xác định là?",
+                "options": [
+                    "Kinh tế thị trường theo định hướng xã hội chủ nghĩa",
+                    "Kinh tế tư nhân",
+                    "Kinh tế tập thể",
+                    "Kinh tế vốn nước ngoài"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 9,
+                "question": "Đâu là đặc điểm của giai cấp công nhân trên phương diện kinh tế - xã hội?",
+                "options": [
+                    "Trong quan hệ sản xuất tư bản chủ nghĩa, giai cấp công nhân là những người không sở hữu tư liệu sản xuất chủ yếu, họ phải bán sức lao động cho nhà tư bản và bị chủ tư bản bóc lột giá trị thặng dư",
+                    "Giai cấp công nhân có sự giác ngộ về giai cấp",
+                    "Giai cấp công nhân có hệ tư tưởng tiến bộ",
+                    "Giai cấp công nhân là giai cấp nắm tư liệu sản xuất"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 10,
+                "question": "Tăng cường quốc phòng, giữ vững an ninh quốc gia, trật tự, an toàn xã hội là nhiệm vụ….của Đảng, nhà nước và toàn dân",
+                "options": [
+                    "Nhiệm vụ thường xuyên, liên tục",
+                    "Nhiệm vụ quan trọng, then chốt",
+                    "Nhiệm vụ trọng yếu, thường xuyên",
+                    "Nhiệm vụ trọng yếu, then chốt"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 11,
+                "question": "Về chính trị, giai cấp công nhân có đặc điểm gì?",
+                "options": [
+                    "Giai cấp công nhân có ý thức tổ chức kỷ luật cao",
+                    "Giai cấp công nhân có hệ tư tưởng độc lập",
+                    "Giai cấp công nhân có tinh thần quốc tế vô sản",
+                    "Giai cấp công nhân có tinh thần đoàn kết quốc tế và ý thức tổ chức kỷ luật cao"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 12,
+                "question": "Giai cấp công nhân có đặc điểm nổi bật nào về xã hội?",
+                "options": [
+                    "Là giai cấp đại diện cho lực lượng sản xuất tiên tiến nhất, có tinh thần cách mạng triệt để, có tính tổ chức cao, có tinh thần đoàn kết quốc tế",
+                    "Là giai cấp đông đảo nhất trong xã hội",
+                    "Là giai cấp gắn bó mật thiết với nông dân",
+                    "Là giai cấp có tinh thần yêu nước sâu sắc"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 13,
+                "question": "Giai cấp công nhân là đại biểu cho phương thức sản xuất nào?",
+                "options": [
+                    "Phương thức sản xuất lạc hậu",
+                    "Phương thức sản xuất tiểu nông",
+                    "Phương thức sản xuất tiên tiến",
+                    "Phương thức sản xuất phong kiến"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 14,
+                "question": "Liên minh công - nông - trí thức là liên minh chính trị, xã hội nhằm mục tiêu gì?",
+                "options": [
+                    "Giữ vững quyền lãnh đạo của giai cấp công nhân",
+                    "Xây dựng khối đại đoàn kết toàn dân tộc",
+                    "Thực hiện dân chủ xã hội chủ nghĩa",
+                    "Tạo cơ sở chính trị - xã hội vững chắc cho sự lãnh đạo của Đảng và sự quản lý của Nhà nước"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 15,
+                "question": "Theo Hồ Chí Minh, ai là giai cấp lãnh đạo cách mạng Việt Nam?",
+                "options": [
+                    "Giai cấp nông dân",
+                    "Giai cấp công nhân",
+                    "Tầng lớp trí thức",
+                    "Toàn thể nhân dân"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 16,
+                "question": "Đâu là đặc điểm nổi bật nhất của liên minh công - nông - trí thức?",
+                "options": [
+                    "Liên minh bền vững, lâu dài",
+                    "Liên minh tự giác, bền vững, lâu dài, dựa trên cơ sở mục tiêu và lợi ích căn bản của các giai cấp, tầng lớp",
+                    "Liên minh để xây dựng chủ nghĩa xã hội",
+                    "Liên minh dưới sự lãnh đạo của Đảng"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 17,
+                "question": "Trong điều kiện hiện nay, để củng cố liên minh công - nông - trí thức cần chú trọng điều gì?",
+                "options": [
+                    "Phát triển kinh tế tư nhân",
+                    "Thực hiện công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn",
+                    "Tăng cường sự lãnh đạo của Đảng",
+                    "Mở rộng quan hệ quốc tế"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 18,
+                "question": "Vai trò lãnh đạo của Đảng đối với liên minh công - nông - trí thức được thể hiện ở?",
+                "options": [
+                    "Đưa ra đường lối, chủ trương đúng đắn cho liên minh",
+                    "Lãnh đạo trực tiếp thông qua hệ thống chính trị",
+                    "Đảm bảo sự đoàn kết thống nhất trong liên minh",
+                    "Cả 3 phương án trên"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 19,
+                "question": "Giai cấp công nhân Việt Nam hiện nay có những hạn chế gì cần khắc phục?",
+                "options": [
+                    "Số lượng ít, trình độ học vấn thấp",
+                    "Thiếu tính tổ chức, ý thức giai cấp chưa cao",
+                    "Chưa làm chủ được khoa học công nghệ hiện đại",
+                    "Cả 3 phương án trên"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 20,
+                "question": "Cơ sở kinh tế để hình thành liên minh công - nông - trí thức ở Việt Nam là gì?",
+                "options": [
+                    "Nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+                    "Sự tồn tại nhiều thành phần kinh tế",
+                    "Tính tất yếu khách quan của quá trình phát triển lực lượng sản xuất",
+                    "Nền kinh tế tập thể"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 21,
+                "question": "Điền vào chỗ trống: \"…..là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển\"",
+                "options": [
+                    "Chủ nghĩa xã hội",
+                    "Kinh tế thị trường",
+                    "Con người",
+                    "Nhà nước pháp quyền"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 22,
+                "question": "Mục tiêu của chủ nghĩa xã hội mà nhân dân ta xây dựng là gì?",
+                "options": [
+                    "Xây dựng kinh tế phồn thịnh và phát triển",
+                    "Giải phóng con người, giải phóng giai cấp",
+                    "Xây dựng nhà nước pháp quyền XHCN",
+                    "Vì con người, vì hạnh phúc và sự phát triển toàn diện của con người"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 23,
+                "question": "Đoàn kết các dân tộc có vị trí chiến lược cơ bản, lâu dài trong sự nghiệp cách mạng Việt Nam; là nguồn sức mạnh, động lực chủ yếu và là nhân tố bền vững có ý nghĩa quyết định thắng lợi của sự nghiệp cách mạng. Đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 24,
+                "question": "Tiếp tục xây dựng, hoàn thiện nhà nước pháp quyền XHCN do Đảng lãnh đạo là nhiệm vụ gì của đổi mới hệ thống chính trị?",
+                "options": [
+                    "Nhiệm vụ trước mắt",
+                    "Nhiệm vụ trọng tâm",
+                    "Nhiệm vụ ưu tiên",
+                    "Nhiệm vụ quan trọng"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 25,
+                "question": "Đảng gắn bó mật thiết với nhân dân, tôn trọng và phát huy quyền làm chủ của nhân dân, dựa vào nhân dân để xây dựng Đảng, chịu sự giám sát của nhân dân, hoạt động trong khuôn khổ Hiến pháp và pháp luật. Đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 26,
+                "question": "Để đảm đương vai trò lãnh đạo, Đảng phải vững mạnh về chính trị, tư tưởng và tổ chức, thường xuyên tự đổi mới, tự chỉnh đốn, ra sức nâng cao trình độ trí tuệ, bản lĩnh chính trị, phẩm chất đạo đức và năng lực lãnh đạo. Đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 27,
+                "question": "Mục tiêu tổng quát khi kết thúc thời kỳ quá độ ở nước ta là xây dựng được về cơ bản nền tảng kinh tế của chủ nghĩa xã hội với kiến trúc thượng tầng, về chính trị, tư tưởng, văn hóa phù hợp, tạo cơ sở để nước ta trở thành một nước XHCN ngày càng phồn vinh, hạnh phúc. Đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 28,
+                "question": "Một trong tám phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam trong Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH (bổ sung và phát triển năm 2011) là gì?",
+                "options": [
+                    "Xây dựng nhà nước pháp quyền XHCN của nhân dân, do nhân dân, vì nhân dân",
+                    "Dân giàu, nước mạnh, công bằng, dân chủ, văn minh",
+                    "Con người có cuộc sống ấm no, tự do, hạnh phúc",
+                    "Các dân tộc trong cộng đồng Việt Nam bình đẳng, đoàn kết, tôn trọng và giúp đỡ nhau cùng phát triển"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 29,
+                "question": "Xây dựng con người Việt Nam giàu lòng yêu nước, có ý thức làm chủ và trách nhiệm công dân; có tri thức, sức khỏe, lao động giỏi; có văn hóa, nghĩa tình; có tinh thần quốc tế chân chính. Đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 30,
+                "question": "Đoàn kết các dân tộc có vị trí…..., lâu dài trong sự nghiệp cách mạng Việt Nam; là nguồn sức mạnh, động lực chủ yếu và là nhân tố bền vững có ý nghĩa quyết định thắng lợi của sự nghiệp cách mạng.",
+                "options": [
+                    "Quan trọng",
+                    "Then chốt",
+                    "Chiến lược cơ bản",
+                    "Ưu tiên hàng đầu"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 31,
+                "question": "\"Thực hiện đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển; chủ động và tích cực hội nhập quốc tế\" là một trong tám đặc trưng xây dựng CNXH ở Việt Nam.",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 32,
+                "question": "Đoàn kết các dân tộc có vị trí chiến lược cơ bản, lâu dài trong sự nghiệp cách mạng Việt Nam; là nguồn sức mạnh, động lực chủ yếu và là nhân tố bền vững có ý nghĩa quyết định thắng lợi của sự nghiệp cách mạng. Đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 33,
+                "question": "Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển. Đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 34,
+                "question": "Mục tiêu của chủ nghĩa xã hội mà nhân dân ta xây dựng là vì con người, vì hạnh phúc và sự phát triển toàn diện của con người. Đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 35,
+                "question": "Đặc điểm kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội là kinh tế nhiều thành phần trong đó có thành phần đối lập. Đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Bài 5 - Toán Học",
+        "description": "Kiểm tra kiến thức về toán",
+        "questions": [
+            {
+                "id": 1,
+                "question": "1 + 1 = ?",
+                "options": ["1", "2", "3", "4"],
+                "correctAnswer": 1
+            },
+            {
+                "id": 1,
+                "question": "2 + 2 = ?",
+                "options": ["1", "2", "3", "4"],
+                "correctAnswer": 3
+            },
+            {
+                "id": 1,
+                "question": "3 + 3 = ?",
+                "options": ["2", "4", "6", "8"],
+                "correctAnswer": 2
+            }
+        ]
+
+    }
+]
