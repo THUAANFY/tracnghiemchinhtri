@@ -1629,31 +1629,31 @@ function generateSampleStats() {
     const today = new Date();
     
     // Tạo 10 kết quả mẫu
-    for (let i = 0; i < 10; i++) {
-        const date = new Date(today);
-        date.setDate(today.getDate() - Math.floor(Math.random() * 14)); // Trong vòng 2 tuần
+    // for (let i = 0; i < 10; i++) {
+    //     const date = new Date(today);
+    //     date.setDate(today.getDate() - Math.floor(Math.random() * 14)); // Trong vòng 2 tuần
         
-        const quizId = Math.floor(Math.random() * 4) + 1; // ID từ 1-4
-        const quizTitle = quizData.length > 0 ? 
-            quizData.find(q => q.id === quizId)?.title || `Bài kiểm tra ${quizId}` : 
-            `Bài kiểm tra ${quizId}`;
+    //     const quizId = Math.floor(Math.random() * 4) + 1; // ID từ 1-4
+    //     const quizTitle = quizData.length > 0 ? 
+    //         quizData.find(q => q.id === quizId)?.title || `Bài kiểm tra ${quizId}` : 
+    //         `Bài kiểm tra ${quizId}`;
         
-        const totalQuestions = Math.floor(Math.random() * 20) + 10; // 10-30 câu hỏi
-        const correctAnswers = Math.floor(Math.random() * (totalQuestions + 1)); // 0-totalQuestions câu đúng
-        const score = (correctAnswers / totalQuestions) * 10;
-        const timeSpent = Math.floor(Math.random() * 900) + 300; // 5-20 phút
+    //     const totalQuestions = Math.floor(Math.random() * 20) + 10; // 10-30 câu hỏi
+    //     const correctAnswers = Math.floor(Math.random() * (totalQuestions + 1)); // 0-totalQuestions câu đúng
+    //     const score = (correctAnswers / totalQuestions) * 10;
+    //     const timeSpent = Math.floor(Math.random() * 900) + 300; // 5-20 phút
         
-        sampleHistory.push({
-            id: Date.now() + i,
-            quizId: quizId,
-            quizTitle: quizTitle,
-            score: score,
-            correctAnswers: correctAnswers,
-            totalQuestions: totalQuestions,
-            timeSpent: timeSpent,
-            date: date.toISOString()
-        });
-    }
+    //     sampleHistory.push({
+    //         id: Date.now() + i,
+    //         quizId: quizId,
+    //         quizTitle: quizTitle,
+    //         score: score,
+    //         correctAnswers: correctAnswers,
+    //         totalQuestions: totalQuestions,
+    //         timeSpent: timeSpent,
+    //         date: date.toISOString()
+    //     });
+    // }
     
     // Lưu lịch sử mẫu
     localStorage.setItem('quizHistory', JSON.stringify(sampleHistory));

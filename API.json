@@ -1566,6 +1566,793 @@
     },
     {
         "id": 5,
+        "title": "Bài 5",
+        "description": "Kiểm tra kiến thức bài 5",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Mô hình kinh tế trong thời kỳ quá độ ở nước ta là Kinh tế thị trường?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 2,
+                "question": "Phải kiên quyết chống các loại bệnh “nội xâm” và đưa ra khỏi Đảng những phần tử thoái hóa biến chất. Từ đó.....",
+                "options": [
+                    "Để mỗi cán bộ đảng viên của đảng có trách nhiệm, có nghĩa vụ hơn",
+                    "Để mỗi cán bộ đảng viên của Đảng vừa hồng lại vừa chuyên.",
+                    "Để mỗi cán bộ phê bình và tự phê bình mình nhiều hơn nữa",
+                    "Để mỗi cán bộ đảng viên của Đảng thấy được lòng tự trọng và đạo đức, nhân văn của bản chất chủ nghĩa xã hội"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 3,
+                "question": "Thị trường tài chính của nước ta hiện nay có nhiều vấn đề phức tạp, đặc biệt là sự xuất hiện một số hiện tượng có tham vọng thâu tóm ngân hàng, hiện tượng này có ảnh hưởng gì đến ổn định cho đất nước?",
+                "options": [
+                    "Cực kỳ nguy hiểm",
+                    "Đây là nguồn gốc sâu xa của khủng hoảng tài chính",
+                    "Làm mất ổn định sự phát triển của nền kinh tế, đặc biệt là sự tụt hậu về kinh tế",
+                    "Tất cả các đáp án đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 4,
+                "question": "Sở hữu tư nhân về tư liệu sản xuất ở nước ta được biểu hiện dưới hình thức?",
+                "options": [
+                    "Cá thể, tiểu chủ, tư bản tư nhân, hộ gia đình",
+                    "Hợp tác xã, tư bản tư nhân, cá thể, tiểu chủ",
+                    "Vốn đầu tư nước ngoài, tư bản nhà nước",
+                    "Tất cả các đáp án đều đúng"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 5,
+                "question": "Vấn đề “Tam nông” là Nông nghiệp, nông sản, nông dân?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 6,
+                "question": "Đặc điểm lớn nhất của nước ta trong thời kỳ quá độ là gì?",
+                "options": [
+                    "Thực hiện quá trình công nghiệp hóa, hiện đại hóa đất nước",
+                    "Chế độ chính trị, kinh tế, xã hội ổn định, quốc phòng an ninh được giữ vững, quan hệ đối ngoại ngày càng mở rộng",
+                    "Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không qua giai đoạn tư bản chủ nghĩa",
+                    "Chưa thực hiện tốt việc kết hợp tăng trưởng kinh tế với công bằng xã hội, chống ô nhiễm môi trường. Chuyển dịch cơ cấu kinh tế chậm, thể chế kinh tế thị trường định hướng xã hội chủ nghĩa và hội nhập kinh tế quốc tế còn hạn chế"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 7,
+                "question": "Thành phần kinh tế nhà nước ở Việt Nam được hình thành trên loại hình sở hữu tập thể về tư liệu sản xuất?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 8,
+                "question": "Sở hữu toàn dân về tư liệu sản xuất còn được gọi sở hữu nhà nước?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 9,
+                "question": "Những nguy cơ, thách thức như: Tụt hậu về kinh tế, chệch hướng về chủ nghĩa xã hội, nạn tham nhũng và quan liêu, “diễn biến hòa bình”… được Đảng ta nhận định trong Văn kiện?",
+                "options": [
+                    "Văn kiện Đại hội VII",
+                    "Văn kiện Đại hội VIII",
+                    "Văn kiện Đại hội IX",
+                    "Văn kiện Đại hội X"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 10,
+                "question": "Sinh ra và lớn lên trong một nước thuộc địa ½ phong kiến; kinh tế nông nghiệp lạc hậu, phần lớn đảng viên của Đảng xuất thân từ giai cấp nông dân, luôn bị kẻ thù đàn áp dã man. Do đó,....…",
+                "options": [
+                    "Để giữ vững sự lãnh đạo của Đảng, chân lý của thành công trong Đảng là thực hiện dân chủ",
+                    "Để giữ vững sự lãnh đạo của Đảng, triết lý của thắng lợi đối với Đảng là biết lắng nghe sự phê bình của dân",
+                    "Để giữ vững sự lãnh đạo của Đảng, bí quyết thành công của Đảng chính là luôn giữ vững bản chất giai cấp công nhân; luôn là ngọn cờ tiền phong trong cuộc đấu tranh giành độc lập dân tộc và xây dựng chủ nghĩa xã hội",
+                    "Để mãi mãi giữ vững sự lãnh đạo của Đảng, phương châm của mọi thắng lợi là tiêu diệt tận gốc các thế lực phản động, thực hiện “diễn biến hòa bình”, “bạo loạn lật đổ”"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 11,
+                "question": "Phương án nào phản ánh nhiệm vụ của Đảng ta trong thời kỳ đẩy mạnh CNH, HĐH đất nước?",
+                "options": [
+                    "Luôn giữ vững và tăng cường bản chất giai cấp công nhân của Đảng",
+                    "Có đường lối và phương pháp cách mạng đúng, phù hợp với quy luật và thực tiễn Việt Nam",
+                    "Thường xuyên củng cố tăng cường mối liên hệ giữa đảng với quần chúng, xây dựng đảng vững mạnh về chính trị, tư tưởng và tổ chức",
+                    "Tất cả các đáp án đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 12,
+                "question": "Muốn có phương thức sản xuất chủ nghĩa xã hội, hình thái kinh tế - xã hội chủ nghĩa thì chúng ta cần?",
+                "options": [
+                    "Xây dựng cơ sở vật chất – kỹ thuật tương ứng",
+                    "Xây dựng cơ sở kinh tế, chính trị và xã hội giàu mạnh",
+                    "Xây dựng cơ sở tồn tại xã hội giàu mạnh và công bằng",
+                    "Xây dựng cơ sở kiến trúc thượng tầng chất lượng và hoàn thiện"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 13,
+                "question": "Thành phần kinh tế Nhà nước giữ vai trò chủ đạo ở nước ta. Đúng hay Sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 14,
+                "question": "Ai đã khẳng định: “Nói kinh tế thị trường định hướng xã hội chủ nghĩa có nghĩa đây không phải là kinh tế thị trường tự do theo kiểu tư bản chủ nghĩa, cũng không phải là kinh tế bao cấp, quản lý theo kiểu tập trung quan liêu và cũng chưa hoàn toàn là kinh tế thị trường xã hội chủ nghĩa, bởi vì Việt Nam đang ở trong thời kỳ quá độ lên chủ nghĩa xã hội, vừa có vừa chưa có đầy đủ các yếu tố của chủ nghĩa xã hội”.",
+                "options": [
+                    "Hồ Chí Minh",
+                    "Trần Đức Lương",
+                    "Trương Tấn Sang",
+                    "Nguyễn Phú Trọng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 15,
+                "question": "Thành phần kinh tế nhà nước hiện nay ở nước ta bao gồm: DNNN, các tổ chức kinh tế của nhà nước?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 16,
+                "question": "Chủ tịch Hồ Chí Minh cho rằng: “Phải lấy kết quả thiết thực đã góp sức bao nhiêu cho sản xuất và lãnh đạo sản xuất mà đo ý chí cách mạng của mình. Hãy kiên quyết …….lối làm việc không nhằm mục đích nâng cao sản xuất\". Hãy điền cụm từ còn thiếu vào chỗ trố",
+                "options": [
+                    "Kinh tế",
+                    "Kinh tế thị trường",
+                    "Kinh tế thị trường định hướng XHCN",
+                    "Kinh tế nước ta"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 17,
+                "question": "Đường lối xây dựng và phát triển văn hóa của Đảng hiện nay là: Đa dạng hóa về bản sắc, phát triển các giá trị văn hóa truyền thống. Nhận định trên đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 18,
+                "question": "Thực hiện các chính sách xã hội vì con người Đảng chủ trương?",
+                "options": [
+                    "Phát triển kinh tế gắn liền với công bằng xã hội",
+                    "Chăm lo đời sống vật chất tinh thần cho nhân dân",
+                    "Ưu tiên phát triển cho vùng đồng bào thiểu số",
+                    "Thực hiện xây dựng chính sách toàn diện về giải quyết các vấn đề xã hội"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 19,
+                "question": "Điền từ còn thiếu vào chỗ trống: “Về xây dựng và phát triển nền văn hóa ... tiên tiến đậm đà bản sắc dân tộc”.",
+                "options": [
+                    "nước ta",
+                    "chúng ta",
+                    "Việt Nam",
+                    "kháng chiến"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 20,
+                "question": "Điền từ còn thiếu trong câu nói của chủ tịch Hồ Chí Minh: “Vì lẽ sống sinh tồn cũng như mục đích của cuộc sống, loài người mới sáng tạo và phát minh ra ngôn ngữ, chữ viết, đạo đức, pháp luật, khoa học, tôn giáo, nghệ thuật. Những công cụ sinh hoạt hàng ngày về ăn, mặc, ở và các phương thức sử dụng. Toàn bộ những sáng tạo và phát minh đó là ……..”",
+                "options": [
+                    "Văn minh",
+                    "Văn hiến",
+                    "Văn vật",
+                    "Văn hóa"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 21,
+                "question": "\"Kết hợp mục tiêu kinh tế với mục tiêu xã hội được tiến hành trên phạm vi cả nước, ở từng lĩnh vực, từng địa phương\". Nhận định trên đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 22,
+                "question": "Một trong những đặc trưng của chủ nghĩa xã hội là “Có nền văn hóa…, đậm đà bản sắc dân tộc”. Điền từ còn thiếu vào chổ trống?",
+                "options": [
+                    "Tiên tiến",
+                    "Phát triển",
+                    "Tiến bộ",
+                    "Cổ truyền"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 23,
+                "question": "Xây dựng hoàn chỉnh hệ thống chính sách bản đảm cung ứng dịch vụ công công thiết yếu nhằm?",
+                "options": [
+                    "Đáp ứng nhu cầu phát triển cho đất nước",
+                    "Đảm bảo tính công bằng và bình đẳng cho mọi người dân",
+                    "Đáp ứng nhu cầu hội nhập khu vực và quốc tế",
+                    "Đáp ứng nhu cầu và nguyện vọng của mọi tầng lớp nhân dân"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 24,
+                "question": "Văn hóa là sự tổng hoà của các giá trị về vật chất và tinh thần?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 25,
+                "question": "Xây dựng và phát triển văn hóa là sự nghiệp của Toàn dân do Đảng lãnh đạo?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 26,
+                "question": "Để bảo vệ và phát huy truyền thống văn hóa của dân tộc cần phải?",
+                "options": [
+                    "Bảo vệ các di sản và giá trị văn hóa truyền thống",
+                    "Giao lưu và tiếp biến văn hóa",
+                    "Chống văn hóa phẩm độc hại",
+                    "Có sự tiếp thu tinh hoa văn hóa trên thế giới"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 27,
+                "question": "Đảng và nhà nước ta coi chính sách dân số là?",
+                "options": [
+                    "Quan trọng",
+                    "Then chốt",
+                    "Quốc sách",
+                    "Thiết yếu"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 28,
+                "question": "Theo Hồ Chí Minh, văn hóa có 6 chức năng cơ bản?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 29,
+                "question": "Đề cương văn hóa Việt Nam do Nguyễn Ái Quốc - Hồ Chí Minh viết?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 30,
+                "question": "Nền kinh tế hàng hóa nhiều thành phần vận hành theo cơ chế thị trường định hướng xã hội chủ nghĩa ở nước ta có vai trò như thế nào đối với sự phát triển kinh tế - xã hội?",
+                "options": [
+                    "Cho phép khai thác, sử dụng có hiệu quả các nguồn lực",
+                    "Phát triển lực lượng sản xuất, tăng năng suất lao động và hiệu quả kinh tế",
+                    "Nâng cao đời sống vật chất và tinh thần cho người lao động",
+                    "Tất cả các đáp án đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 31,
+                "question": "Chức năng giáo dục của văn hóa thể hiện qua nhận thức, tư tưởng, tình cảm và hành động? Nhận định này đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 32,
+                "question": "Xây dựng chiến lược quốc gia về nâng cao sức khỏe, tầm vóc con người là Tăng tuổi thọ, cải thiện chất lượng giống nòi?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 33,
+                "question": "Khuyến khích mọi người làm giàu theo pháp luật là ?",
+                "options": [
+                    "Khắc phục tư tưởng bao cấp ỷ lại",
+                    "khắc phục tính thụ động, hưởng thụ",
+                    "Phát huy tổng hợp các nguồn lực",
+                    "Phát huy trí tuệ con người Việt Nam"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 34,
+                "question": "Như thế nào là một nền văn hóa đậm đà bản sắc dân tộc?",
+                "options": [
+                    "Những giá trị bền vững, những tinh hoa của cộng đồng các dân tộc Việt Nam đó",
+                    "Giữ gìn bản sắc dân tộc đi đôi với chống lạc hậu, lỗi thời hủ tục, tập quán cũ",
+                    "Những giá trị bền vững, những tinh hoa của cộng đồng các dân tộc Việt Nam đó; Giữ gìn bản sắc dân tộc đi đôi với chống lạc hậu, lỗi thời hủ tục, tập quán cũ",
+                    "Những giá trị bền vững, những tinh hoa của cộng đồng các dân tộc Việt Nam đó; Giữ gìn bản sắc dân tộc đi đôi với chống lạc hậu, lỗi thời hủ tục, tập quán cũ đều không đúng"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 35,
+                "question": "Chủ trương phát triển hệ thống y tế công bằng và hiệu quả là hướng đến?",
+                "options": [
+                    "Đảm bảo xây dưng một hệ thống cơ sở vật chất về y tế hiện đại",
+                    "Đảm bảo mọi người dân được chăm sóc và bảo vệ sức khỏe",
+                    "Đảm bảo về đội ngũ y, bác sỹ được đào tạo chuyên nghiệp trong và ngoài nươc",
+                    "Đảm bảo tính xã hội hóa trong dịch vụ y tế hiện hành"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 36,
+                "question": "Nền văn hóa Việt Nam được hình thành trên cở sở đặc trưng văn hóa tổng hợp các dân tộc Việt Nam nên có tính chất Tổng hợp và đa dạng? Nhận định này đúng hay sai?",
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
+                "correctAnswer": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Bài 6",
+        "description": "Kiểm tra kiến thức bài 6",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Toàn cầu hóa nghĩa là?",
+                "options": [
+                    "Hợp tác song phương",
+                    "Hợp tác của các nước phát triển",
+                    "Hợp tác của các nước đang phát triển",
+                    "Sự hợp tác đa phương giữa các quốc gia"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 2,
+                "question": "Bảo vệ Tổ quốc được xem là nhiệm vụ như thế nào đối với cách mạng Việt Nam?",
+                "options": [
+                    "Quan trọng",
+                    "Chiến lược",
+                    "Sách lược",
+                    "Then chốt"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 3,
+                "question": "Điền từ còn thiếu vào chỗ trống: “Tăng cường quốc phòng, giữ vững an ninh quốc gia, trật tự, an toàn xã hội là nhiệm vụ trọng yếu, thường xuyên của….”.",
+                "options": [
+                    "Nhà nước và toàn dân",
+                    "Đảng, Nhà nước và toàn dân",
+                    "Mọi tầng lớp nhân dân",
+                    "Cả hệ thống chính trị"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 4,
+                "question": "An ninh quốc gia là gì?",
+                "options": [
+                    "Là sự ổn định trong quan hệ chính trị giữa các giai cấp, khẳng định vị trí lãnh đạo của giai cấp cầm quyền đối với các giai cấp khác và vị trí độc lập, tự chủ của chính quyền nhà nước đối với các Nhà nước khác trên thế giới",
+                    "Là sự ổn định trong quan hệ chính trị giữa các giai cấp, khẳng định vị trí lãnh đạo của tầng lớp cầm quyền đối với các giai cấp khác",
+                    "Là sự ổn định trong quan hệ chính trị giữa các giai cấp, khẳng định vị trí lãnh đạo của trí thức cầm quyền đối với các giai cấp khác",
+                    "Tất cả các đáp án trên"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 5,
+                "question": "Nhiệm vụ bảo vệ tổ quốc hiện nay là?",
+                "options": [
+                    "Bảo vệ Đảng nhà nước, nhân dân và chế độ xã hội chủ nghĩa, an ninh chính trị, kinh tế, tư tưởng",
+                    "Bảo vệ vùng lục địa, vùng trời, vùng biển thuộc chủ quyền quốc gia",
+                    "Bảo vệ toàn vẹn lãnh thổ chống âm mưu diễn biến hòa bình bạo loạn lật đổ",
+                    "Bảo vệ thành quả cách mạng và chế độ chính trị xã hội"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 6,
+                "question": "Trong thực hiện nhiệm vụ bảo vệ Tổ quốc luôn phải?",
+                "options": [
+                    "Nâng cao ý thức trách nhiệm và tinh thần cảnh giác",
+                    "Xác định được kẻ thù và các thế lực thù địch",
+                    "Chia rẽ nội bộ kẻ thù",
+                    "Sẵn sàng chiến đấu để bảo vệ tổ quốc"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 7,
+                "question": "Sức mạnh để bảo vệ Tổ quốc là?",
+                "options": [
+                    "Nội lực và ngoại lực",
+                    "Của khối đại đoàn kết dân tộc, cả hệ thống chính trị",
+                    "Của toàn Đảng, toàn dân, toàn quân",
+                    "Sức mạnh của lực lượng chính trị và vũ trang"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 8,
+                "question": "Để động viên chiến đấu bảo vệ tổ quốc Hồ Chí Minh đã từng nói: “Các vua Hùng đã có công dựng nước, Bác cháu ta phải……”. Điền từ còn thiếu vào câu nói trên?",
+                "options": [
+                    "Đánh giặc giữ nước",
+                    "Cùng nhau giữ lấy nước",
+                    "Đoàn kết giữ nước",
+                    "Đồng lòng giữ nước"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 9,
+                "question": "Cơ sở chính trị - xã hội vững chắc cho quốc phòng và an ninh thì cán bộ, đảng viên và nhân dân phải?",
+                "options": [
+                    "Chấp hành đúng pháp luật",
+                    "Vững vàng về chính trị tư tưởng",
+                    "Sẵn sàng tham gia bảo vệ tổ quốc",
+                    "Tham gia trấn áp phản cách mạng"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 10,
+                "question": "Chủ nghĩa đế quốc và các thế lực thù địch đang âm mưu chống phá Việt Nam bằng chiến lược nào?",
+                "options": [
+                    "Bao vây cấm vận",
+                    "Chia rẽ khối đại đoàn kết dân tộc",
+                    "Diễn biến hòa bình và bạo loạn lật đổ",
+                    "Dùng vũ lực và đe dọa dùng vũ lực"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 11,
+                "question": "Một trong những nhiệm vụ của quốc phòng an ninh hiện nay là?",
+                "options": [
+                    "Làm thất bại mọi âm mưu chống phá của các thế lực thù địch",
+                    "Tiêu diệt các thế lực thù địch chống phá nước ta",
+                    "Chủ động trong quốc phòng và an ninh",
+                    "Xây dựng một lực lượng quân sự mạnh và hiện đại"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 12,
+                "question": "Quân đội nhân dân Việt Nam thành lập vào thời gian nào?",
+                "options": [
+                    "Ngày 19 tháng 12 năm 1946",
+                    "Ngày 19 tháng 12 năm 1944",
+                    "Ngày 22 tháng 12 năm 1944",
+                    "Ngày 22 tháng 12 năm 1946"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 13,
+                "question": "Quốc phòng là gì?",
+                "options": [
+                    "Là công cuộc giữ nước của một quốc gia, gồm tổng thể các hoạt động đối nội và đối ngoại về quân sự, chính trị, kinh tế, văn hoá, khoa học của Nhà nước và nhân dân để phòng… nhằm giữ vững hoà bình, đẩy lùi, ngăn chặn các hoạt động gây chiến của kẻ thù và sẵn sàng đánh thắng chiến tranh xâm lược dưới mọi hình thức, mọi quy mô",
+                    "Là công cuộc bảo vệ đất nước bằng sức mạnh quân sự",
+                    "Là các hoạt động nhằm đấu tranh chống lại các thế lực thù địch",
+                    "Là sứ mệnh của mỗi quốc gia, dân tộc"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 14,
+                "question": "Quan điểm cơ bản của Đảng về quốc phòng an ninh là?",
+                "options": [
+                    "Xây dựng nền quốc phòng toàn dân và an ninh nhân dân vững mạnh toàn diện",
+                    "Xây dựng quân đội và công an chính quy tinh nhuệ và hiện đại",
+                    "Xây dựng hệ thống cơ sở vật chất kỹ thuật hiện đại trong quốc phòng và an ninh",
+                    "Bảo vệ toàn vẹn lãnh thổ, độc lập chủ quyền quốc gia"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 15,
+                "question": "Trong sự kết hợp phát triển kinh tế xã hội và an ninh quốc phòng cần phải là?",
+                "options": [
+                    "Xây dựng lực lượng vũ trang lớn mạnh",
+                    "Đẩy mạnh phát triển kinh tế để tăng cường tiềm lực quốc phòng",
+                    "Xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân, xây dựng khu vực phòng thủ tỉnh thành phố",
+                    "Xây dựng phát triển lực lượng ba thứ quân tinh nhuệ hiện đại thực hiện bảo vệ chủ quyền và toàn vẹn lãnh thổ"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 16,
+                "question": "Nguyên tắc Đảng lãnh đạo Quân đội nhân dân Việt Nam là:",
+                "options": [
+                    "Tuyệt đối, trực tiếp về mọi mặt",
+                    "Tuyệt đối và trực tiếp",
+                    "Tuyệt đối",
+                    "Trực tiếp về mọi mặt"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 17,
+                "question": "Phương châm xây dựng quân đội ta được Đảng khẳng định qua các kỳ Đại hội là:",
+                "options": [
+                    "Xây dựng quân đội nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+                    "Lập tức mua sắm vũ khí trang bị hiện đại cho quân đội",
+                    "Xây dựng quân đội theo hướng chuyên nghiệp, nhà nghề",
+                    "Chú trọng xây dựng đời sống văn hóa tinh thần của quân đội"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 18,
+                "question": "Quan điểm sức mạnh dân tộc trong chính sách quốc phòng và an ninh được hiểu là:",
+                "options": [
+                    "Truyền thống đánh giặc của ông cha ta",
+                    "Quân đội chính quy hiện đại",
+                    "Những truyền thống tốt đẹp, sức mạnh của văn hóa tinh thần và sức mạnh vật chất của dân tộc",
+                    "Nền kinh tế hiện đại"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 19,
+                "question": "Việt Nam là thành viên thứ mấy của Tổ chức Thương mại thế giới (WTO)?",
+                "options": [
+                    "Thành viên thứ 140",
+                    "Thành viên thứ 150",
+                    "Thành viên thứ 160",
+                    "Thành viên thứ 170"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 20,
+                "question": "Tích cực hội nhập quốc tế là:",
+                "options": [
+                    "Khẩn trương chuẩn bị, điều chỉnh đổi mới bên trong từ phương thức lãnh đạo, quản lý đến hoạt động thực tiễn",
+                    "Hoàn toàn chủ động quyết định đường lối hội nhập kinh tế quốc tế",
+                    "Dự báo những tình huống thuận lợi và khó khăn khi hội nhập",
+                    "Sẵn sàng quan hệ tốt đẹp với các quốc gia tiến bộ trên thế giới"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 21,
+                "question": "Đến nay, Việt Nam đã tạo dựng quan hệ kinh tế thương mại với bao nhiêu quốc gia và vùng lãnh thổ?",
+                "options": [
+                    "Trên 160 quốc gia và vùng lãnh thổ",
+                    "Trên 170 quốc gia và vùng lãnh thổ",
+                    "Trên 180 quốc gia và vùng lãnh thổ",
+                    "Trên 190 quốc gia và vùng lãnh thổ"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 22,
+                "question": "Việt Nam gia nhập diễn đàn hợp tác kinh tế châu Á – Thái Bình Dương (APEC) vào thời gian nào?",
+                "options": [
+                    "Năm 1997",
+                    "Năm 1999",
+                    "Năm 1998",
+                    "Năm 2000"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 23,
+                "question": "Mục tiêu, nhiệm vụ đối ngoại, hội nhập kinh tế của Việt Nam trong thời kỳ đổi mới là:",
+                "options": [
+                    "Lấy việc giữ vững môi trường hòa bình, ổn định; tạo các điều kiện quốc tế thuận lợi cho công cuộc đổi mới, để phát triển kinh tế - xã hội là lợi ích cao nhất của Tổ quốc",
+                    "Giữ vững môi trường hòa bình, tạo điều kiện quốc tế thuận lợi cho công cuộc đổi mới",
+                    "Giữ vững ổn định chính trị xã hội",
+                    "Giữ vững độc lập tự chủ tự cường đi đôi với đa phương hóa đa dạng hóa quan hệ đối ngoại"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 24,
+                "question": "Nước ta đứng trước những thách thức gì trong việc mở rộng quan hệ hợp tác quốc tế:",
+                "options": [
+                    "Phân hóa giàu nghèo, dịch bệnh, tội phạm xuyên quốc gia",
+                    "Chịu sức ép cạnh tranh gay gắt",
+                    "Những biến động trên thị trường quốc tế tác động đến thị trường trong nước",
+                    "Tất cả đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 25,
+                "question": "Sự kiện đánh dấu sự hội nhập của nước ta với khu vực Đông Nam Á là:",
+                "options": [
+                    "Vào tháng 07 năm 1995 Việt Nam gia nhập ASEAN",
+                    "Vào năm 1976 Việt Nam đặt quan hệ ngoại giao cuối cùng với Thái Lan và Philippin",
+                    "Vào năm 1986 Việt Nam đồng ý cho các nước Đông Nam Á vào buôn bán",
+                    "Tất cả đều đúng"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 26,
+                "question": "Toàn cầu hóa có những tác động tiêu cực:",
+                "options": [
+                    "Chi phối quá trình toàn cầu hóa tạo nên sự bất bình đẳng trong quan hệ quốc tế; Làm gia tăng sự phân hóa giàu nghèo",
+                    "Các nước nông nghiệp sẽ bị các nước công nghiệp thao túng",
+                    "Ô nhiễm môi trường, tài nguyên thiên nhiên bị cạn kiệt",
+                    "Dân số sẽ gia tăng, nạn đói có nguy cơ sẽ diễn ra khắp nơi"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 27,
+                "question": "Mục tiêu đối ngoại của việc mở rộng đối ngoại và hội nhập kinh tế quốc tế trong thời kỳ đổi mới là:",
+                "options": [
+                    "Làm giảm nguồn lực đáp ứng yêu cầu phát triển của đất nước",
+                    "Các doanh nghiệp Việt Nam đã tiếp nhận được nhiều kinh nghiệm quản lý sản xuất hiện đại thông qua các dự án liên doanh hợp tác với nước ngoài",
+                    "Kết hợp nội lực với các nguồn lực bên ngoài tạo thành nguồn lực tổng hợp để đẩy mạnh công nghiệp hóa, hiện đại hóa; thực hiện dân giàu, nước mạnh, xã hội công bằng, dân chủ, văn minh",
+                    "Đầu tư nước ngoài chiếm tỷ trọng 90% trong nền kinh tế quốc dân"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 28,
+                "question": "Hội nhập kinh tế quốc tế thời kỳ đổi mới đã tạo cơ hội: ",
+                "options": [
+                    "Để nước ta tiếp cận những thành tựu của cuộc cách mạng khoa học và công nghệ trên thế giới",
+                    "Các doanh nghiệp Việt Nam đã tiếp nhận được nhiều kinh nghiệm quản lý sản xuất hiện đại thông qua các dự án liên doanh hợp tác với nước ngoài",
+                    "Dây chuyền sản xuất tiên tiến được sử dụng đã tạo nên bước phát triển mới trong các ngành sản xuất",
+                    "Tất cả đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 29,
+                "question": "Đường lối đối ngoại, hội nhập kinh tế quốc tế thời kì đổi mới bộc lộ những hạn chế:",
+                "options": [
+                    "Còn lúng túng, bị động, chưa xây dựng quan hệ lợi ích đan xen",
+                    "Chưa hình thành được kế hoạch tổng thể và dài hạn về hội nhập kinh tế quốc tế",
+                    "Đội ngũ cán bộ lĩnh vực đối ngoại nhìn chung chưa đáp ứng được nhu cầu cả về số lượng và chất lượng",
+                    "Tất cả đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 30,
+                "question": "Một số chủ trương và chính sách lớn về mở rộng quan hệ đối ngoại, hội nhập kinh tế quốc tế:",
+                "options": [
+                    "Đưa các quan hệ quốc tế đã được thiết lập đi vào chiều sâu, ổn định",
+                    "Chủ động và tích cực hội nhập kinh tế quốc tế theo lộ trình phù hợp",
+                    "Bổ sung và hoàn thiện hệ thống pháp luật và thể chế kinh tế phù hợp với các nguyên tắc, quy định của WTO",
+                    "Tất cả đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 31,
+                "question": "Mục tiêu đối ngoại của nước ta là:",
+                "options": [
+                    "Nhằm phát triển đất nước trên mọi lĩnh vực",
+                    "Nâng cao vị thế trong quan hệ ngoại giao khu vực và quốc tế",
+                    "Thúc đẩy kinh tế trong nước phát triển",
+                    "Tất cả đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 32,
+                "question": "Ngày 10/11/1991, Việt Nam bình thường hóa quan hệ với: ",
+                "options": [
+                    "Bình thường hóa quan hệ với Trung Quốc ",
+                    "Bình thường hóa quan hệ với Pháp",
+                    "Bình thường hóa quan hệ với Campuchia",
+                    "Bình thường hóa quan hệ với Mỹ"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 33,
+                "question": "Điền từ còn thiếu vào chỗ trống: Một trong những nhiệm vụ thực hiện đường lối đối ngoại được đề ra trong Văn kiện ĐHĐB toàn quốc lần thứ XII của Đảng: Việt Nam sẵn sàng là bạn, là… tin cậy và thành viên có trách nhiệm của cộng đồng quốc tế",
+                "options": [
+                    "Đồng minh",
+                    "Đối tác",
+                    "Anh em",
+                    "Chiến hữu"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 34,
+                "question": "Định hướng đường lối đối ngoại nhấn mạnh yêu cầu phát triển quan hệ hợp tác, hữu nghị truyền thống với những nước láng giềng nào?",
+                "options": [
+                    "Lào, Campuchia, Thái Lan",
+                    "Trung Quốc, Nhật Bản, Triều Tiên",
+                    "Lào, Campuchia, Trung Quốc",
+                    "Trung Quốc, Nga, Triều Tiên"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 35,
+                "question": "Hội nhập quốc tế là sự nghiệp của ai?",
+                "options": [
+                    "Bộ Ngoại giao",
+                    "Đảng và Nhà nước",
+                    "Việt kiều và du học sinh",
+                    "Toàn dân và cả hệ thống chính trị"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 36,
+                "question": "Việt Nam bình thường hoá quan hệ với Mỹ vào thời gian nào?",
+                "options": [
+                    "Tháng 7 năm 1994",
+                    "Tháng 7 năm 1995",
+                    "Tháng 7 năm 2000",
+                    "Tháng 7 năm 2001"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 37,
+                "question": "Yêu sách Đường Chín đoạn hay còn gọi là Đường lưỡi bò nhằm tuyên bố chủ quyền trái phép trên Biển Đông của nước nào?",
+                "options": [
+                    "Thái Lan",
+                    "Philippin",
+                    "Trung Quốc",
+                    "Đài Loan"
+                ],
+                "correctAnswer": 2
+            }
+        ]
+    },
+    {
+        "id": 7,
         "title": "Bài 5 - Toán Học",
         "description": "Kiểm tra kiến thức về toán",
         "questions": [
