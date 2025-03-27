@@ -26,7 +26,8 @@ let timeLimit = 1800; // 20 phút (1200 giây)
 let shuffledQuestions = [];
 let wrongQuestions = [];
 let isDarkMode = true;
-const API_URL = 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/API-t8Dcjts9VwRNZ68LKYjyCsqfR4GehY.json';
+const API_URL = 'API.json';
+
 
 // Dữ liệu thống kê
 let quizHistory = [];
@@ -358,7 +359,7 @@ async function loadQuizData() {
         loadingQuizzes.classList.remove('hidden');
         quizList.innerHTML = '';
         
-        const response = await fetch("API.json");
+        const response = await fetch(API_URL);
         if (!response.ok) {
             throw new Error('Không thể tải dữ liệu từ API');
         }
