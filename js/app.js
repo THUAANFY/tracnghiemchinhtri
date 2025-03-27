@@ -25,7 +25,7 @@ let timeElapsed = 0;
 let timeLimit = 1800; // 20 phút (1200 giây)
 let shuffledQuestions = [];
 let wrongQuestions = [];
-let isDarkMode = true;
+let isDarkMode = false;
 const API_URL = 'API.json';
 
 
