@@ -22,10 +22,10 @@ let currentQuestionIndex = 0;
 let userAnswers = [];
 let timerInterval = null;
 let timeElapsed = 0;
-let timeLimit = 1200; // 20 phút (1200 giây)
+let timeLimit = 1800; // 20 phút (1200 giây)
 let shuffledQuestions = [];
 let wrongQuestions = [];
-let isDarkMode = false;
+let isDarkMode = true;
 const API_URL = 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/API-t8Dcjts9VwRNZ68LKYjyCsqfR4GehY.json';
 
 // Dữ liệu thống kê
@@ -484,7 +484,7 @@ function renderQuizList(quizzes) {
                         <i class="fas fa-question-circle mr-1"></i> ${quiz.questions.length} câu hỏi
                     </span>
                     <span class="text-xs quiz-card-info">
-                        <i class="far fa-clock mr-1"></i> 20 phút
+                        <i class="far fa-clock mr-1"></i> 30 phút
                     </span>
                 </div>
                 <div class="quiz-card-buttons">
@@ -755,7 +755,7 @@ function showResult() {
         }
     });
     if (wrongAnswersDisplay.innerHTML === '') {
-        wrongAnswersDisplay.innerHTML = '<div class="p-6 bg-green-50 dark:bg-green-900/30 text-green-600 dark:text-green-400 rounded-lg text-center slide-in"><i class="fas fa-trophy text-4xl mb-3"></i><p class="text-xl font-semibold">Chúc mừng! Bạn trả lời đúng tất cả các câu.</p></div>';
+        wrongAnswersDisplay.innerHTML = '<div class="p-6 bg-dark-50 dark:bg-dark-900/30 text-dark-600 dark:text-dark-400 rounded-lg text-center slide-in"><i class="fas fa-trophy text-4xl mb-3"></i><p class="text-xl font-semibold">Chúc mừng! Bạn trả lời đúng tất cả các câu.</p></div>';
         reviewWrongButton.classList.add('hidden');
     } else {
         reviewWrongButton.classList.remove('hidden');

@@ -929,13 +929,23 @@
             {
                 "id": 2,
                 "question": "Điểm đến đầu tiên trong hành trình tìm đường cứu nước của Nguyễn Tất Thành là quốc gia nào?",
-                "options": ["Pháp", "Mỹ", "Anh", "Liên Xô"],
+                "options": [
+                    "Pháp",
+                    "Mỹ",
+                    "Anh",
+                    "Liên Xô"
+                ],
                 "correctAnswer": 0
             },
             {
                 "id": 3,
                 "question": "Hiệp ước nào đánh dấu sự đầu hàng hoàn toàn của triều đình phong kiến nhà Nguyễn trước thế lực xâm lăng?",
-                "options": ["Hắc-măng", "Pa-tơ-nốt", "Nhâm Tuất", "Giáp Tuất"],
+                "options": [
+                    "Hắc-măng",
+                    "Pa-tơ-nốt",
+                    "Nhâm Tuất",
+                    "Giáp Tuất"
+                ],
                 "correctAnswer": 1
             },
             {
@@ -985,73 +995,129 @@
             {
                 "id": 8,
                 "question": "Cách mạng tháng Tám năm 1945 là kết quả của bao nhiêu năm đấu tranh anh dũng của nhân dân ta dưới sự lãnh đạo của Đảng?",
-                "options": ["5 năm", "10 năm", "15 năm", "20 năm"],
+                "options": [
+                    "5 năm",
+                    "10 năm",
+                    "15 năm",
+                    "20 năm"
+                ],
                 "correctAnswer": 2
             },
             {
                 "id": 9,
                 "question": "Từ năm 1954 đến 1975 Đảng lãnh đạo Việt Nam đánh thắng kẻ thù nào?",
-                "options": ["Thực Dân Pháp", "Phát Xít Đức", "Đế Quốc Mỹ", "Phong kiến"],
+                "options": [
+                    "Thực Dân Pháp",
+                    "Phát Xít Đức",
+                    "Đế Quốc Mỹ",
+                    "Phong kiến"
+                ],
                 "correctAnswer": 2
             },
             {
                 "id": 10,
                 "question": "Pháp xâm lược Việt Nam, xã hội Việt Nam tồn tại nhiều mâu thuẫn, nhưng nổi lên 2 mâu thuẫn: Giữa dân tộc Việt Nam với thực dân Pháp; Giữa nhân dân Việt Nam (chủ yếu là nông dân) với địa chủ phong kiến. Nhận định trên đúng hay sai?",
-                "options": ["Đúng", "Sai"],
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
                 "correctAnswer": 0
             },
             {
                 "id": 11,
                 "question": "“Khi mâu thuẫn với Pháp và phong kiến có ý thức dân tộc và dân chủ; nhưng do lo sợ bị cách mạng đánh đổ họ thường dao động ngả nghiêng, dễ cải lương, thoả hiệp”. Đây là quan điểm nhằm chỉ giai cấp, tầng lớp nào?",
-                "options": ["Nông dân", "Công nhân", "Giai cấp Tư sản", "Tiểu tư sản"],
+                "options": [
+                    "Nông dân",
+                    "Công nhân",
+                    "Giai cấp Tư sản",
+                    "Tiểu tư sản"
+                ],
                 "correctAnswer": 2
             },
             {
                 "id": 12,
                 "question": "Nguyễn Tất Thành ra đi tìm đường cứu nước vào lúc chủ nghĩa tư bản đang tồn tại như thế nào?",
-                "options": ["Còn non trẻ", "Vừa lật đổ chế độ phong kiến", "Đoàn kết", "Đã trở thành chủ nghĩa đế quốc"],
+                "options": [
+                    "Còn non trẻ",
+                    "Vừa lật đổ chế độ phong kiến",
+                    "Đoàn kết",
+                    "Đã trở thành chủ nghĩa đế quốc"
+                ],
                 "correctAnswer": 3
             },
             {
                 "id": 13,
                 "question": "Hội nghị thành lập Đảng ngày 03-02-1930 diễn ra tại Hương Cảng (Trung Quốc) đã hợp nhất 3 tổ chức cộng sản thành lập ra Đảng Cộng sản nào?",
-                "options": ["Đảng Cộng sản Trung Quốc", "Đảng Cộng sản Việt Nam", "Đảng Cộng sản Lào", "Đông dương cộng sản đảng"],
+                "options": [
+                    "Đảng Cộng sản Trung Quốc",
+                    "Đảng Cộng sản Việt Nam",
+                    "Đảng Cộng sản Lào",
+                    "Đông dương cộng sản đảng"
+                ],
                 "correctAnswer": 1
             },
             {
                 "id": 14,
                 "question": "Kẻ thù chính của dân tộc ta trong giai đoạn 1858 - 1954 không phải là Pháp đúng hay sai?",
-                "options": ["Đúng", "Sai"],
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
                 "correctAnswer": 1
             },
             {
                 "id": 15,
                 "question": "Nguyễn Ái Quốc đóng vai trò như thế nào tại hội nghị thành lập Đảng (2-1930)?",
-                "options": ["Thành viên cố vấn", "Chủ trì hội nghị thành lập Đảng.", "Đại biểu", "Đại diện An Nam cộng sản đảng"],
+                "options": [
+                    "Thành viên cố vấn",
+                    "Chủ trì hội nghị thành lập Đảng.",
+                    "Đại biểu",
+                    "Đại diện An Nam cộng sản đảng"
+                ],
                 "correctAnswer": 1
             },
             {
                 "id": 16,
                 "question": "Tác phẩm ghi lại những bài giảng của Nguyễn Ái Quốc cho các lớp đào tạo cán bộ tại Quảng Châu có tên gọi là gì?",
-                "options": ["Sơ thảo luận cương của Lenin", "Nhật ký trong tù", "Yêu sách về dân tộc", "Đường Kach Mệnh"],
+                "options": [
+                    "Sơ thảo luận cương của Lenin",
+                    "Nhật ký trong tù",
+                    "Yêu sách về dân tộc",
+                    "Đường Kach Mệnh"
+                ],
                 "correctAnswer": 3
             },
             {
                 "id": 17,
                 "question": "Trong giai đoạn 1925-1930, Nguyễn Ái Quốc đang hoạt động cách mạng ở đâu?",
-                "options": ["Trung Quốc", "Pháp", "Anh", "Liên Xô"],
+                "options": [
+                    "Trung Quốc",
+                    "Pháp",
+                    "Anh",
+                    "Liên Xô"
+                ],
                 "correctAnswer": 0
             },
             {
                 "id": 18,
                 "question": "“Dù màu da có khác nhau, trên đời này chỉ có hai giống người: Giống người bóc lột và giống người bị bóc lột”. Đây là nhận định của ai?",
-                "options": ["Phan Bội Châu", "Phan Châu Trinh", "Nguyễn Tất Thành", "Trần Phú"],
+                "options": [
+                    "Phan Bội Châu",
+                    "Phan Châu Trinh",
+                    "Nguyễn Tất Thành",
+                    "Trần Phú"
+                ],
                 "correctAnswer": 2
             },
             {
                 "id": 19,
                 "question": "Ngày 18/06/1919, Nguyễn Ái Quốc đã thay mặt những người Việt Nam yêu nước tại Pháp gửi bản yêu sách tới hội nghị nào?",
-                "options": ["Hội nghị Vécxây", "Hội nghị Pari", "Hội nghị Yalta", "Hội nghị Tehran"],
+                "options": [
+                    "Hội nghị Vécxây",
+                    "Hội nghị Pari",
+                    "Hội nghị Yalta",
+                    "Hội nghị Tehran"
+                ],
                 "correctAnswer": 0
             },
             {
@@ -1068,7 +1134,12 @@
             {
                 "id": 21,
                 "question": "Ngày 28-1-1941 (tức mồng 2 Tết Tân Tỵ), Nguyễn Ái Quốc đã trở về Tổ quốc trực tiếp lãnh đạo cách mạng Việt Nam sau bao nhiêu năm bôn ba tìm đường cứu nước?",
-                "options": ["25 năm", "30 năm", "35 năm", "40 năm"],
+                "options": [
+                    "25 năm",
+                    "30 năm",
+                    "35 năm",
+                    "40 năm"
+                ],
                 "correctAnswer": 1
             },
             {
@@ -1096,13 +1167,21 @@
             {
                 "id": 24,
                 "question": "Trong giai đoạn 1954-1975, kẻ thù chính của dân tộc Việt Nam là?",
-                "options": ["Thực dân Pháp", "Đế quốc Mỹ", "Trung Quốc", "Nhật Bản"],
+                "options": [
+                    "Thực dân Pháp",
+                    "Đế quốc Mỹ",
+                    "Trung Quốc",
+                    "Nhật Bản"
+                ],
                 "correctAnswer": 1
             },
             {
                 "id": 25,
                 "question": "Cương lĩnh chính trị đầu tiên của Đảng cộng sản Việt Nam chủ trương thực hiện các cuộc cách mạng tư sản dân quyền cách mạng, thổ địa cách mạng, cách mạng xã hội chủ nghĩa đúng hay sai?",
-                "options": ["Đúng", "Sai"],
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
                 "correctAnswer": 0
             },
             {
@@ -1130,19 +1209,32 @@
             {
                 "id": 28,
                 "question": "Cương lĩnh chính trị (2-1930) của Đảng Cộng sản Việt Nam xác định giai cấp lãnh đạo cách mạng là",
-                "options": ["Nông dân", "Tư sản", "Công nhân", "Trí thức"],
+                "options": [
+                    "Nông dân",
+                    "Tư sản",
+                    "Công nhân",
+                    "Trí thức"
+                ],
                 "correctAnswer": 2
             },
             {
                 "id": 29,
                 "question": "Thắng lợi của cuộc kháng chiến chống Mỹ cứu nước là kết quả tổng hợp của nhiều nhân tố trong đó sự lãnh đạo đúng đắn của Đảng Cộng sản Việt Nam là nhân tố quyết định hàng đầu, đúng hay sai?",
-                "options": ["Đúng", "Sai"],
+                "options": [
+                    "Đúng",
+                    "Sai"
+                ],
                 "correctAnswer": 0
             },
             {
                 "id": 30,
                 "question": "Hiệp định Giơ-ne-ve dẫn đến chấm dứt sự hiện diện của quân đội Pháp trên bán đảo Đông Dương được ký kết vào năm?",
-                "options": ["1945", "1946", "1954", "1975"],
+                "options": [
+                    "1945",
+                    "1946",
+                    "1954",
+                    "1975"
+                ],
                 "correctAnswer": 2
             },
             {
@@ -1192,7 +1284,12 @@
             {
                 "id": 35,
                 "question": "Hội Nghị thành lập Đảng được diễn ra tại đâu?",
-                "options": ["Cao Bằng", "Nghệ An", "Hà Nội", "Hương Cảng - Trung Quốc"],
+                "options": [
+                    "Cao Bằng",
+                    "Nghệ An",
+                    "Hà Nội",
+                    "Hương Cảng - Trung Quốc"
+                ],
                 "correctAnswer": 3
             }
         ]
@@ -1205,7 +1302,12 @@
             {
                 "id": 1,
                 "question": "Đảng ta xác định đặc trưng cơ bản của xã hội xã hội chủ nghĩa ở Việt Nam gồm mấy đặc trưng?",
-                "options": ["5", "6", "7", "8"],
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ],
                 "correctAnswer": 3
             },
             {
@@ -2352,29 +2454,1179 @@
         ]
     },
     {
-        "id": 7,
-        "title": "Bài 5 - Toán Học",
-        "description": "Kiểm tra kiến thức về toán",
+        "id": 77,
+        "title": "Bài 7",
+        "description": "Kiểm tra kiến thức bài 7",
         "questions": [
             {
                 "id": 1,
-                "question": "1 + 1 = ?",
-                "options": ["1", "2", "3", "4"],
+                "question": "Điền từ còn thiếu vào chỗ trống: “Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước ... của Nhân dân, do Nhân dân, vì Nhân dân”?",
+                "options": [
+                    "Pháp quyền xã hội chủ nghĩa",
+                    "Xã hội chủ nghĩa",
+                    "Chủ nghĩa xã hội",
+                    "Độc lập"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 2,
+                "question": "Tư tưởng về Nhà nước pháp quyền có từ rất sớm ở nước nào?",
+                "options": [
+                    "Pháp",
+                    "Mỹ",
+                    "Hy Lạp",
+                    "Liên Xô"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 3,
+                "question": "Lần đầu tiên thuật ngữ xây dựng nhà nước pháp quyền được đề cập tại Hội nghị Trung ương 2 khóa VII năm nào?",
+                "options": [
+                    "Năm 1990",
+                    "Năm 1991",
+                    "Năm 1992",
+                    "Năm 1993"
+                ],
                 "correctAnswer": 1
             },
             {
-                "id": 1,
-                "question": "2 + 2 = ?",
-                "options": ["1", "2", "3", "4"],
+                "id": 4,
+                "question": "Đảng ta đã dùng khái niệm nhà nước pháp quyền xã hội chủ nghĩa từ năm nào?",
+                "options": [
+                    "Năm 1991",
+                    "Năm 1992",
+                    "Năm 1994",
+                    "Năm 1995"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 5,
+                "question": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam gồm có bao nhiêu bản chất?",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
                 "correctAnswer": 3
             },
             {
-                "id": 1,
-                "question": "3 + 3 = ?",
-                "options": ["2", "4", "6", "8"],
+                "id": 6,
+                "question": "Đảng ta xác định xây dựng nhà nước pháp quyền xã hội chủ nghĩa có bao nhiêu đặc trưng?",
+                "options": [
+                    "4",
+                    "5",
+                    "6",
+                    "7"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 7,
+                "question": "Có bao nhiêu nhiệm vụ và giải pháp xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam?",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 8,
+                "question": "Đảng ta xác định Nhà nước ta là Nhà nước pháp quyền xã hội chủ nghĩa của?",
+                "options": [
+                    "Giai cấp công nhân",
+                    "Giai cấp nông dân",
+                    "Nhân dân, do nhân dân, vì nhân dân",
+                    "Toàn dân tộc"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 9,
+                "question": "Đảng ta xác định tất cả quyền lực Nhà nước thuộc về ai?",
+                "options": [
+                    "Nhân dân",
+                    "Đội ngũ tri thức",
+                    "Đảng viên",
+                    "Cán bộ lãnh đạo"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 10,
+                "question": "Một trong những đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa là gì?",
+                "options": [
+                    "Nhà nước hoạt động không theo hiến pháp và pháp luật",
+                    "Nhà nước hoạt động theo ý chí của giai cấp",
+                    "Nhà nước của giai cấp thống trị",
+                    "Nhà nước của dân, do dân và vì dân"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 11,
+                "question": "Nhà nước thể hiện ý chí, lợi ích và nguyện vọng của nhân dân là nói đến đặc điểm nào dưới đây?",
+                "options": [
+                    "Tính xã hội",
+                    "Tính giai cấp",
+                    "Tính nhân dân",
+                    "Tính quần chúng"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 12,
+                "question": "Công cụ nào dưới đây là hữu hiệu nhất để Nhà nước quản lí xã hội?",
+                "options": [
+                    "Kế hoạch",
+                    "Chính sách",
+                    "Chủ trương",
+                    "Pháp luật"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 13,
+                "question": "Nhà nước pháp quyền có nghĩa là, mọi hoạt động của các cơ quan nhà nước, tổ chức xã hội và mọi công dân đều được thực hiện trên cơ sở:",
+                "options": [
+                    "Niềm tin",
+                    "Chính sách",
+                    "Pháp luật",
+                    "Dư luận xã hội"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 14,
+                "question": "Bản chất giai cấp của nhà nước pháp quyền XHCN VN được thể hiện tập trung nhất là gì?",
+                "options": [
+                    "Phục vụ lợi ích của nhân dân",
+                    "Sự lãnh đạo của ĐCS VN đối với nhà nước",
+                    "Do nhân dân xây dựng nên",
+                    "Thể hiện ý chí của nhân dân"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 15,
+                "question": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam do tổ chức nào dưới đây lãnh đạo?",
+                "options": [
+                    "Đảng Cộng sản Việt Nam",
+                    "Mặt trận Tổ quốc Việt Nam",
+                    "Hội liên hiệp Phụ nữ Việt Nam",
+                    "Quốc hội Việt Nam"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 16,
+                "question": "Xây dựng nhà nước pháp quyền XHCN là trách nhiệm của ai?",
+                "options": [
+                    "Thanh niên",
+                    "Mọi công dân",
+                    "Đảng Cộng sản Việt Nam",
+                    "Cán bộ lãnh đạo"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 17,
+                "question": "Ý kiến nào dưới đây là đúng về trách nhiệm tham gia xây dựng Nhà nước pháp quyền xã hội chủ nghĩa?",
+                "options": [
+                    "Mọi công dân đều phải có trách nhiệm tham gia xây dựng và bảo vệ Nhà nước",
+                    "Chỉ cán bộ, công chức nhà nước mới có trách nhiệm tham gia xây dựng Nhà nước",
+                    "对话 và bảo vệ nhà nước là trách nhiệm của lực lượng công an nhân dân",
+                    "Chỉ lực lượng quân đội nhân dân mới có trách nhiệm xây dựng và bảo vệ nhà nước"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 18,
+                "question": "Ý kiến nào dưới đây là đúng về trách nhiệm của công dân trong việc tham gia xây dựng Nhà nước?",
+                "options": [
+                    "Mọi công dân phải có trách nhiệm xây dựng Nhà nước",
+                    "Xây dựng nhà nước là trách nhiệm riêng của những người có chức quyền",
+                    "Xây dựng Nhà nước là tùy vào tính tự giác mỗi người",
+                    "Chỉ cán bộ, công chức Nhà nước mới có trách nhiệm xây dựng Nhà nước"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 19,
+                "question": "Hành vi nào dưới đây không thể hiện trách nhiệm của công dân trong việc tham gia xây dựng Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam?",
+                "options": [
+                    "Anh G không vi phạm pháp luật",
+                    "Anh C không tố giác tội phạm",
+                    "H tham gia vào đội dân quân tự vệ của phường",
+                    "Bác D tuyên truyền và vận động mọi người trong khu phố thực hiện tốt pháp luật"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 20,
+                "question": "Khi bàn về trách nhiệm của công dân trong việc tham gia xây dựng và bảo vệ Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam, có nhiều ý kiến khác nhau. Em sẽ lựa chọn ý kiến nào dưới đây?",
+                "options": [
+                    "Chỉ có cán bộ Nhà nước mới có trách nhiệm",
+                    "Đây là nhiệm vụ của cơ quan nhà nước",
+                    "Đây là quyền và nghĩa vụ của công dân",
+                    "Đây là trách nhiệm của mọi công dân Việt Nam"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 21,
+                "question": "Khi phát hiện một hành vi tham ô, tham nhũng. Trong trường hợp này em sẽ làm gì cho phù hợp với trách nhiệm của công dân trong việc tham gia xây dựng nhà nước pháp quyền XHCN?",
+                "options": [
+                    "Lờ đi xem như không biết gì",
+                    "Viết đơn tố cáo gửi đến cơ quan có thẩm quyền",
+                    "Trao đổi với bạn bè về hành vi này",
+                    "Đưa sự việc này lên Facebook"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 22,
+                "question": "Một trong những yếu tố thúc đẩy xây dựng Nhà nước pháp quyền “là đẩy mạnh phòng chống ….”. Điền từ còn thiếu vào chỗ trống?",
+                "options": [
+                    "Quan liêu",
+                    "Tham nhũng",
+                    "Hủ hóa",
+                    "Suy thoái đạo đức"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 23,
+                "question": "Đảng ta xác định: “Tổ chức quyền lực của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là thống nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước trong thực hiện các quyền…..”",
+                "options": [
+                    "Tự do dân chủ",
+                    "Lập pháp, hành pháp, tư pháp",
+                    "Tập trung dân chủ",
+                    "Con người"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 24,
+                "question": "Giai cấp công nhân Việt Nam có sứ mệnh lịch sử to lớn là?",
+                "options": [
+                    "Lãnh đạo cách mạng; đại diện phương thức sản xuất tiên tiến tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội; đi đầu trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+                    "Là giai cấp tiến tiến của lực lượng sản xuất; đại diện phương thức sản xuất tiên tiến tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội; đi đầu trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+                    "Là giai cấp đại diện cho phương thức sản xuất tiên tiến; tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội; đi đầu trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+                    "Là lực lượng – giai cấp đấu tranh với giai cấp tư sản trong thời đại hiện nay; tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội; đi đầu trong công cuộc công nghiệp hóa, hiện đại hóa đất nước"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 25,
+                "question": "Nội dung sau đây nói về vấn đề gì?: “Thực hiện nhất quán đường lối đối ngoại độc lập, tự chủ, hòa bình, hợp tác và phát triển, đa phương hóa, đa dạng hóa và chủ động và tích cực hội nhập kinh tế quốc tế”.",
+                "options": [
+                    "Quan điểm của Đảng",
+                    "Nghị quyết Đại hội đại biểu toàn quốc lần thứ IX của Đảng",
+                    "Quan điểm đối ngoại",
+                    "Quan điểm đối nội"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 26,
+                "question": "Mặt trận Tổ quốc Việt Nam có vai trò như thế nào trong xây dựng nhà nước pháp quyền xã hội chủ nghĩa?",
+                "options": [
+                    "Phản biện xã hội",
+                    "Tham mưu",
+                    "Điều chỉnh",
+                    "Định hướng"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 27,
+                "question": "Chủ trương của Đảng Cộng sản Việt Nam xây dựng Nhà nước pháp quyền xã hội chủ nghĩa là gì?",
+                "options": [
+                    "Sự cấp thiết của dân tộc",
+                    "Sự khẳng định và thừa nhận Nhà nước pháp quyền là một tất yếu lịch sử",
+                    "Đường lối đúng đắn",
+                    "Tất cả các ý nêu trên"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 28,
+                "question": "Chủ nghĩa xã hội khoa học ra đời dựa trên những điều kiện nào?",
+                "options": [
+                    "Điều kiện kinh tế - xã hội",
+                    "Điều kiện văn hóa - con người",
+                    "Tiền đề khoa học tự nhiên và tư tưởng lý luận",
+                    "Điều kiện kinh tế - xã hội; Tiền đề khoa học tự nhiên và tư tưởng lý luận"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 29,
+                "question": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được thể hiện qua nguyên tắc nào?",
+                "options": [
+                    "Nhà nước của dân, do dân và vì dân",
+                    "Quản lý mọi mặt của đời sống xã hội bằng pháp luật",
+                    "Do Đảng Cộng sản Việt Nam lãnh đạo",
+                    "Cả A, B và C"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 30,
+                "question": "Bản chất của nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam được thể hiện qua giai cấp nào?",
+                "options": [
+                    "Nông dân",
+                    "Công nhân",
+                    "Thống trị",
+                    "Bị trị"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 31,
+                "question": "Sự lãnh đạo của Đảng Cộng sản đối với nhà nước ta thể hiện nhà nước ta mang bản chất của giai cấp nào?",
+                "options": [
+                    "Giai cấp công nhân",
+                    "Giai cấp thống trị",
+                    "Giai cấp công – nông – trí thức",
+                    "Giai cấp bị trị"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 32,
+                "question": "Bản chất giai cấp công nhân của nhà nước ta bao hàm những yếu tố nào?",
+                "options": [
+                    "Tính nhân dân và tính dân tộc",
+                    "Tính nhân dân và tính giai cấp",
+                    "Tính giai cấp và tính dân tộc",
+                    "Tính giai cấp và tính hiện đại"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 33,
+                "question": "Công cụ chủ yếu để nhân dân thực hiện quyền làm chủ của mình là gì?",
+                "options": [
+                    "Công an",
+                    "Quốc hội",
+                    "Tòa án",
+                    "Nhà nước"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 34,
+                "question": "Nội dung nào không thể hiện tính dân tộc của nhà nước ta?",
+                "options": [
+                    "Kế thừa và phát huy những truyền thống, bản sắc tốt đẹp của dân tộc",
+                    "Nhà nước của dân, do dân và vì dân",
+                    "Chăm lo lợi ích mọi mặt cho tất cả các dân tộc",
+                    "Thực hiện đại đoàn kết dân tộc"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 35,
+                "question": "Nội dung nào thể hiện chức năng của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam?",
+                "options": [
+                    "Thực hiện đoàn kết toàn dân",
+                    "Thực hiện đại đoàn kết dân tộc",
+                    "Đảm bảo an ninh chính trị và trật tự, an toàn xã hội",
+                    "Để nhân dân thực hiện quyền làm chủ của mình"
+                ],
                 "correctAnswer": 2
             }
         ]
-
+    },
+    {
+        "id": 8,
+        "title": "Bài 8",
+        "description": "Kiểm tra kiến thức bài 8",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Điều gì thể hiện rõ nét nhất sức mạnh của khối đại đoàn kết toàn dân tộc trong giai đoạn hiện nay?",
+                "options": [
+                    "Sự tham gia của mọi tầng lớp nhân dân trong các hoạt động xã hội",
+                    "Sự lãnh đạo của Đảng và Nhà nước trong mọi lĩnh vực",
+                    "Sự phát triển kinh tế - xã hội nhanh chóng",
+                    "Sự đoàn kết trong việc phòng, chống thiên tai và dịch bệnh"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 2,
+                "question": "Vai trò của thanh niên trong việc xây dựng khối đại đoàn kết toàn dân tộc được thể hiện như thế nào?",
+                "options": [
+                    "Thanh niên là lực lượng xung kích trong các hoạt động cộng đồng",
+                    "Thanh niên là nguồn lực quan trọng trong việc phát triển kinh tế",
+                    "Thanh niên tham gia tích cực trong công tác xã hội và từ thiện",
+                    "Tất cả các phương án trên"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 3,
+                "question": "Sức mạnh của khối đại đoàn kết toàn dân tộc có vai trò như thế nào trong việc bảo vệ chủ quyền quốc gia?",
+                "options": [
+                    "Là nền tảng để xây dựng lực lượng quốc phòng mạnh mẽ",
+                    "Tạo động lực cho sự phát triển bền vững của đất nước",
+                    "Góp phần vào việc giữ gìn hòa bình và an ninh khu vực",
+                    "Tất cả các phương án trên"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 4,
+                "question": "Sự đoàn kết giữa các dân tộc trong cộng đồng các dân tộc Việt Nam được thể hiện qua hoạt động nào sau đây?",
+                "options": [
+                    "Các lễ hội truyền thống",
+                    "Công tác giáo dục và đào tạo",
+                    "Sự hợp tác trong phát triển kinh tế",
+                    "Tất cả các phương án trên"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 5,
+                "question": "Việc đắp đê trị thủy trong lịch sử dựng nước của nhân dân Việt Nam đã góp phần trực tiếp hình thành nên truyền thống tốt đẹp cơ bản nào sau đây?",
+                "options": [
+                    "Truyền thống yêu nước",
+                    "Truyền thống nhân ái",
+                    "Truyền thống đoàn kết giúp đỡ lẫn nhau",
+                    "Truyền thống cần cù"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 6,
+                "question": "Trong thời kỳ đổi mới, sức mạnh khối đại đoàn kết toàn dân tộc đã được phát huy thông qua cơ chế nào?",
+                "options": [
+                    "Cơ chế dân chủ cơ sở",
+                    "Cơ chế đối thoại và tiếp thu ý kiến nhân dân",
+                    "Cơ chế phối hợp giữa các tổ chức xã hội",
+                    "Tất cả các phương án trên"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 7,
+                "question": "Yếu tố nào tạo nên sự cố kết trong cộng đồng dân tộc Việt Nam?",
+                "options": [
+                    "Nhu cầu lao động sản xuất, chiến đấu dựng xây đất nước",
+                    "Nhu cầu chống giặc ngoại xâm",
+                    "Nhu cầu bảo tồn văn hóa",
+                    "Nhu cầu đa dân tộc"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 8,
+                "question": "Nhà nước Việt Nam đầu tiên ra đời vì lý do gì?",
+                "options": [
+                    "Vì mâu thuẫn giai cấp, xã hội",
+                    "Vì mâu thuẫn về lợi ích kinh tế",
+                    "Vì nhu cầu xây dựng đất nước và chống giặc ngoại xâm",
+                    "Vì nhu cầu đấu tranh"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 9,
+                "question": "Trong lịch sử, Việt Nam luôn là mục tiêu nhòm ngó của các thế lực từ bên ngoài xâm lược lớn hơn mình rất nhiều lần, nguyên nhân từ yếu tố nào?",
+                "options": [
+                    "Tiềm năng con người",
+                    "Tài nguyên thiên nhiên dồi dào",
+                    "Tiềm năng kinh tế",
+                    "Tiềm năng vị trí địa lý"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 10,
+                "question": "Đoạn trích sau trong Tuyên ngôn độc lập: “Tất cả mọi người đều sinh ra có quyền bình đẳng. Tạo hóa cho họ những quyền không ai có thể xâm phạm được; trong những quyền ấy, có quyền được sống, quyền tự do và quyền mưu cầu hạnh phúc”. Đoạn trích đó nói lên truyền thống tốt đẹp cơ bản nào của dân tộc Việt Nam?",
+                "options": [
+                    "Truyền thống đánh giặc giữ nước",
+                    "Truyền thống đoàn kết nhân nghĩa",
+                    "Truyền thống lao động cần cù thông minh sáng tạo",
+                    "Truyền thống yêu nước, tinh thần độc lập tự chủ, ý chí kiên cường bất khuất"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 11,
+                "question": "Phương án nào sau đây KHÔNG đúng?",
+                "options": [
+                    "Với người Việt Nam, lao động là truyền thống nổi bật với sắc thái riêng",
+                    "Cần cù vốn là bản chất của lao động nói chung",
+                    "Lao động sáng tạo với tinh thần lạc quan yêu đời là một nét đặc sắc thể hiện bản lĩnh của tâm hồn Việt Nam",
+                    "Lao động sáng tạo với tinh thần lạc quan yêu đời là một nét đặc sắc thể hiện bản lĩnh, trí tuệ của tâm hồn Việt Nam"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 12,
+                "question": "“Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công” là câu nói của ai?",
+                "options": [
+                    "Hồ Chí Minh",
+                    "Khổng Tử",
+                    "Mạnh Tử",
+                    "Lênin"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 13,
+                "question": "Một trong những lý do mà các thế lực thường xuyên xâm lược lãnh hải nước ta là?",
+                "options": [
+                    "Có trữ lượng dầu mỏ vô cùng dồi dào và quan trọng cho phát triển kinh tế",
+                    "Có trữ lượng hải sản hàng đầu thế giới",
+                    "Có trữ lượng San hô lớn, phục vụ dịch vụ du lịch và kinh doanh biển",
+                    "Có trữ lượng muối lớn nhất thế giới"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 14,
+                "question": "Cây đa Tân Trào ở đâu?",
+                "options": [
+                    "Tuyên Quang",
+                    "Cao Bằng",
+                    "Bắc Kạn",
+                    "Lào Cai"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 15,
+                "question": "Dòng sông nào đã đi vào lịch sử dân tộc với cuộc kháng chiến chống quân Nam Hán?",
+                "options": [
+                    "Sông Đà",
+                    "Sông Bạch Đằng",
+                    "Sông Hồng",
+                    "Sông Cửu Long"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 16,
+                "question": "Thành Nhà Hồ ở đâu?",
+                "options": [
+                    "Thanh Hóa",
+                    "Ninh Bình",
+                    "Nghệ An",
+                    "Hà Tĩnh"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 17,
+                "question": "Truyền thuyết Sơn Tinh – Thủy Tinh có ý nghĩa?",
+                "options": [
+                    "Tinh thần đoàn kết, chống lại thiên tai của quân và dân ta",
+                    "Tinh thần đoàn kết, đắp đê, trị thủy của dân tộc",
+                    "Con ông cháu cha",
+                    "Tất cả các đáp án"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 18,
+                "question": "Địa hình Việt Nam có hình chữ S nằm ở phía đông bán đảo Đông Dương, giữa vùng Đông Nam Á, phía Bắc giáp Trung Quốc, phía Tây giáp Lào và Campuchia, phía Đông và Nam giáp biển, các điều kiện này có khó khăn gì đối với chính trị?",
+                "options": [
+                    "Dễ bị các thế lực thù địch chia rẽ các miền trong cả nước",
+                    "Dễ xảy ra xung đột lãnh thổ với các nước láng giềng",
+                    "Phân tán về đầu tư phát triển đất nước",
+                    "Có nền ngoại giao phức tạp"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 19,
+                "question": "Vấn đề “Tam nông” là vấn đề gì?",
+                "options": [
+                    "Nông nghiệp, nông thôn, nông dân",
+                    "Nông nghiệp, nông lâm, nông thôn",
+                    "Nông nghiệp, nông sản, nông dân",
+                    "Nông thôn, nông dân, nông sản"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 20,
+                "question": "Phương án nào phản ánh nhiệm vụ của Đảng ta trong thời kỳ đẩy mạnh CNH, HĐH đất nước?",
+                "options": [
+                    "Luôn giữ vững và tăng cường bản chất giai cấp công nhân của Đảng",
+                    "Có đường lối và phương pháp cách mạng đúng, phù hợp với quy luật và thực tiễn Việt Nam",
+                    "Thường xuyên củng cố tăng cường mối liên hệ giữa đảng với quần chúng, xây dựng đảng vững mạnh về chính trị, tư tưởng và tổ chức",
+                    "Tất cả các đáp án đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 21,
+                "question": "Đặc điểm lớn nhất của nước ta trong thời kỳ quá độ là gì?",
+                "options": [
+                    "Thực hiện quá trình công nghiệp hóa, hiện đại hóa đất nước",
+                    "Chế độ chính trị, kinh tế, xã hội ổn định, quốc phòng an ninh được giữ vững",
+                    "Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không qua giai đoạn tư bản chủ nghĩa",
+                    "Chưa thực hiện tốt việc kết hợp tăng trưởng kinh tế với công bằng xã hội"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 22,
+                "question": "Trong các nguồn lực để công nghiệp hóa, hiện đại hóa ở nước ta đến năm 2020, Đại hội VIII của Đảng đã xác định các nguồn lực nào là yếu tố cơ bản cho sự phát triển nhanh và bền vững?",
+                "options": [
+                    "Khoa học công nghệ",
+                    "Tài nguyên đất đai",
+                    "Con người",
+                    "Tất cả các phương án đều đúng"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 23,
+                "question": "Chủ tịch Hồ Chí Minh đã kêu gọi thực hiện chính sách nào về tôn giáo?",
+                "options": [
+                    "“Tín ngưỡng là nhu cầu cần thiết”",
+                    "“Tín ngưỡng tự do, lương giáo đoàn kết”",
+                    "“Sống tốt đời đẹp đạo”",
+                    "“Tự do tín ngưỡng, tự do tôn giáo”"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 24,
+                "question": "Chính sách nhất quán của nhà nước xã hội chủ nghĩa đối với tôn giáo là gì?",
+                "options": [
+                    "Tôn trọng và bảo đảm quyền tự do tín ngưỡng của mọi công dân",
+                    "Tôn trọng và bảo đảm quyền tự do không tín ngưỡng của mọi công dân",
+                    "Tôn trọng và bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng của mọi công dân",
+                    "Tôn trọng và cho phép mọi tôn giáo hoạt động"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 25,
+                "question": "Giai cấp công nhân Việt Nam có sứ mệnh lịch sử to lớn là?",
+                "options": [
+                    "Lãnh đạo cách mạng; đại diện phương thức sản xuất tiên tiến tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội; đi đầu trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+                    "Là giai cấp đi đầu trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+                    "Là giai cấp đại diện cho phương thức sản xuất tiên tiến; tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội",
+                    "Là lực lượng – giai cấp đấu tranh với giai cấp tư sản trong thời đại hiện nay; tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 26,
+                "question": "Một trong những biện pháp để xây dựng Nhà nước pháp quyền trong hệ thống chính trị là?",
+                "options": [
+                    "Hoàn thiện hệ thống pháp luật và cơ quan lập pháp Việt Nam",
+                    "Xây dựng một bộ máy đàn áp hữu hiệu",
+                    "Kêu gọi nhân dân chấp hành đúng pháp luật",
+                    "Tham gia vào luật quốc tế và công ước của thế giới"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 27,
+                "question": "Xây dựng Nhà nước pháp quyền ở nước ta hiện nay phải xuất phát từ căn cứ cơ bản nào?",
+                "options": [
+                    "Nắm vững nguyên lý cơ bản của chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh cũng như cương lĩnh của Đảng về Nhà nước và pháp luật",
+                    "Xây dựng sự vững mạnh của hiến pháp và pháp luật",
+                    "Tăng cường học tập kinh nghiệm về xây dựng nhà nước Pháp quyền trên thế giới",
+                    "Xây dựng và phát triển dân chủ xã hội chủ nghĩa"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 28,
+                "question": "Việt Nam là một quốc gia có bao nhiêu thành phần dân tộc?",
+                "options": [
+                    "52",
+                    "53",
+                    "54",
+                    "55"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 29,
+                "question": "Đảng ta xác định có bao nhiêu giải pháp phát huy sức mạnh của toàn dân tộc?",
+                "options": [
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 30,
+                "question": "Phương hướng phát huy sức mạnh toàn dân tộc được Đảng ta xác định trong Văn kiện Đại hội lần thứ XII của Đảng năm nào?",
+                "options": [
+                    "2012",
+                    "2014",
+                    "2016",
+                    "2018"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 31,
+                "question": "Nghị quyết của Hội nghị lần thứ bảy Ban Chấp hành Trung ương Đảng khóa IX (3-2003) về phát huy sức mạnh đại đoàn kết toàn dân tộc vì “Dân giàu, nước mạnh, xã hội công bằng, dân chủ, văn minh” xác định có mấy quan điểm?",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 32,
+                "question": "Mặt trận Tổ quốc Việt Nam đã thực hiện nhiệm vụ tuyên truyền và vận động như thế nào để tập hợp toàn dân?",
+                "options": [
+                    "Tổ chức các sự kiện cộng đồng",
+                    "Phát động các chiến dịch truyền thông",
+                    "Thực hiện tốt nhiệm vụ tuyên truyền, vận động",
+                    "Tất cả các phương án trên"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 33,
+                "question": "Tư tưởng cơ bản và xuyên suốt trong cuộc đời hoạt động cách mạng của Chủ tịch Hồ Chí Minh về đại đoàn kết dân tộc là gì?",
+                "options": [
+                    "Đoàn kết là lực lượng vô địch",
+                    "Đoàn kết là sức mạnh tinh thần",
+                    "Đoàn kết là yếu tố quyết định thắng lợi",
+                    "Đoàn kết là lực lượng vô địch để khắc phục mọi khó khăn, giành lấy thắng lợi"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 34,
+                "question": "Trong công cuộc đổi mới đất nước, đường lối và chủ trương của Đảng, Nhà nước về đại đoàn kết dân tộc được thể hiện như thế nào?",
+                "options": [
+                    "Qua việc hoàn thiện và thể chế hóa bằng pháp luật",
+                    "Bằng cách tăng cường các hoạt động kinh tế",
+                    "Thông qua việc mở rộng quan hệ quốc tế",
+                    "Qua việc hoàn thiện và thể chế hóa bằng các chính sách, pháp luật"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 35,
+                "question": "Sức mạnh đại đoàn kết dân tộc đã được phát huy như thế nào trong cuộc chiến chống đại dịch COVID-19?",
+                "options": [
+                    "Nhờ sự huy động kịp thời và sự vào cuộc quyết liệt của cả hệ thống chính trị",
+                    "Do sự đồng thuận của các tầng lớp nhân dân",
+                    "Bằng việc thực hiện công tác phòng, chống dịch ở quy mô chưa có tiền lệ",
+                    "Tất cả các phương án trên"
+                ],
+                "correctAnswer": 3
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Bài 9",
+        "description": "Kiểm tra kiến thức bài 9",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Nghĩa vụ của người công dân là gì?",
+                "options": [
+                    "Chấp hành đúng kỷ cương, nề nếp do công ty đặt ra",
+                    "Đi làm đúng giờ",
+                    "Không đánh nhau, cãi nhau trong công ty",
+                    "Cả A, B, C"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 2,
+                "question": "Công dân có quyền tham gia quản lý nhà nước và xã hội không?",
+                "options": [
+                    "Có",
+                    "Không",
+                    "Chỉ trong trường hợp được mời",
+                    "Chỉ có cán bộ nhà nước mới được"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 3,
+                "question": "Những lợi ích cơ bản mà công dân được hưởng, được Nhà nước bảo vệ và đảm bảo theo Hiến pháp và pháp luật là gì?",
+                "options": [
+                    "Những lợi ích mà người công dân được hưởng và được luật pháp bảo vệ",
+                    "Những đảm bảo pháp lý của nhà nước cho tất cả mọi người",
+                    "Những lợi ích cốt lõi mà bất cứ ai trên thế giới đều được hưởng",
+                    "Những đảm bảo của Liên Hợp Quốc cho tất cả mọi người"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 4,
+                "question": "Ý nào dưới đây không đúng khi nói về quyền và nghĩa vụ cơ bản của công dân?",
+                "options": [
+                    "Mọi người đều bình đẳng trước pháp luật",
+                    "Công dân phải thực hiện nghĩa vụ theo pháp luật",
+                    "Không cần tôn trọng quyền và nghĩa vụ của người khác",
+                    "Quyền và nghĩa vụ gắn bó chặt chẽ với nhau"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 5,
+                "question": "Quyền và nghĩa vụ cơ bản của công dân được thực hiện theo nguyên tắc nào?",
+                "options": [
+                    "Luật Dân sự",
+                    "Luật Lao động",
+                    "Hiến pháp 2013",
+                    "Quy định của địa phương"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 6,
+                "question": "Ai được hưởng các quyền và phải thực hiện nghĩa vụ công dân theo quy định của pháp luật Việt Nam?",
+                "options": [
+                    "Người có quốc tịch Việt Nam",
+                    "Người đang sống và làm việc tại Việt Nam",
+                    "Người nước ngoài đang sống tại Việt Nam",
+                    "Người đã thôi quốc tịch Việt Nam"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 7,
+                "question": "Người phạm tội bị phạt tù có phải thực hiện nghĩa vụ công dân không?",
+                "options": [
+                    "Có, đầy đủ mọi nghĩa vụ",
+                    "Không, một số quyền bị hạn chế nhưng vẫn phải thực hiện nghĩa vụ cơ bản",
+                    "Không, hoàn toàn không phải thực hiện",
+                    "Chỉ thực hiện khi được yêu cầu"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 8,
+                "question": "Quyền cơ bản của công dân bao gồm những gì?",
+                "options": [
+                    "Quyền tự do kinh doanh",
+                    "Quyền học tập",
+                    "Quyền tự do ngôn luận",
+                    "Cả A, B, C"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 9,
+                "question": "Công dân bình đẳng về quyền và nghĩa vụ như thế nào?",
+                "options": [
+                    "Đều có quyền như nhau",
+                    "Đều có nghĩa vụ như nhau",
+                    "Đều có quyền và nghĩa vụ giống nhau",
+                    "Đều bình đẳng về quyền và làm nghĩa vụ theo quy định của pháp luật"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 10,
+                "question": "Quyền được đảm bảo an sinh xã hội có thuộc về quyền công dân không?",
+                "options": [
+                    "Có",
+                    "Không",
+                    "Chỉ trong trường hợp đặc biệt",
+                    "Chỉ áp dụng cho người lao động"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 11,
+                "question": "Công dân nước Cộng hòa Xã hội Chủ nghĩa Việt Nam là người có quốc tịch Việt Nam đúng không?",
+                "options": [
+                    "Đúng",
+                    "Sai",
+                    "Chỉ đúng với người sinh ra tại Việt Nam",
+                    "Chỉ đúng với người sống tại Việt Nam"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 12,
+                "question": "Quyền tự do ngôn luận của công dân có nghĩa là gì?",
+                "options": [
+                    "Muốn nói gì và làm gì cũng được",
+                    "Muốn viết gì gửi đăng báo cũng được",
+                    "Được bày tỏ quan điểm của mình trong khuôn khổ pháp luật",
+                    "Được nói bất cứ điều gì mà không bị hạn chế"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 13,
+                "question": "Công dân được bày tỏ quan điểm của mình về các vấn đề chính trị, kinh tế, văn hóa, xã hội của đất nước thông qua quyền nào?",
+                "options": [
+                    "Quyền khiếu nại",
+                    "Quyền tố cáo",
+                    "Quyền bầu cử, ứng cử",
+                    "Quyền tự do ngôn luận"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 14,
+                "question": "Việc nhiều nữ sinh đánh bạn học, gây tổn hại nghiêm trọng đến tâm lý và sức khỏe của người bị hại vi phạm quyền nào của công dân?",
+                "options": [
+                    "Quyền được pháp luật bảo hộ về sức khỏe và chỗ ở",
+                    "Quyền bất khả xâm phạm về sức khỏe, tính mạng, nhân phẩm",
+                    "Quyền tự do ngôn luận",
+                    "Quyền học tập"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 15,
+                "question": "Việc trực tiếp phát biểu ý kiến nhằm xây dựng cơ quan, trường học, địa phương mình có phải là cách thể hiện quyền tự do thảo luận không?",
+                "options": [
+                    "Có",
+                    "Không",
+                    "Chỉ trong trường hợp được yêu cầu",
+                    "Chỉ áp dụng cho cán bộ"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 16,
+                "question": "Người lao động có những nghĩa vụ gì?",
+                "options": [
+                    "Chấp hành kỷ luật lao động, nội quy lao động",
+                    "Làm việc trong điều kiện không đảm bảo an toàn",
+                    "Không được nghỉ chế độ khi công ty cần",
+                    "Chỉ làm việc khi có lợi ích cá nhân"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 17,
+                "question": "Hoạt động có mục đích của con người nhằm tạo ra của cải vật chất và các giá trị tinh thần cho xã hội được gọi là gì?",
+                "options": [
+                    "Trải nghiệm",
+                    "Lao động",
+                    "Dịch vụ",
+                    "Hướng nghiệp"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 18,
+                "question": "Mọi công dân đều có quyền tự do sử dụng sức lao động của mình để học tập đúng không?",
+                "options": [
+                    "Đúng",
+                    "Sai",
+                    "Chỉ đúng với người dưới 18 tuổi",
+                    "Chỉ đúng với người lao động trí óc"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 19,
+                "question": "Ý nào dưới đây không đúng khi nói về nghĩa vụ lao động của công dân?",
+                "options": [
+                    "Lao động là nghĩa vụ thiêng liêng",
+                    "Mọi người có nghĩa vụ lao động để phát triển đất nước",
+                    "Mọi người lao động chỉ để kiếm tiền cho bản thân",
+                    "Lao động là nguồn sống và hạnh phúc"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 20,
+                "question": "Người lao động tốt là người như thế nào?",
+                "options": [
+                    "Là người lao động trí óc",
+                    "Là người lao động chân tay",
+                    "Là người tạo ra hiệu suất lao động cao và có phẩm chất tốt",
+                    "Là người có bằng cấp cao"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 21,
+                "question": "Việc luôn sống và hành động theo những quy định của pháp luật được gọi là gì?",
+                "options": [
+                    "Sống có đạo đức",
+                    "Tuân theo pháp luật",
+                    "Sống phù hợp chuẩn mực xã hội",
+                    "Tuân theo kỷ luật"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 22,
+                "question": "Công dân đủ 21 tuổi trở lên có quyền ứng cử vào Quốc hội và Hội đồng nhân dân theo quy định của pháp luật không?",
+                "options": [
+                    "Có",
+                    "Không",
+                    "Chỉ áp dụng cho nam giới",
+                    "Chỉ áp dụng cho cán bộ nhà nước"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 23,
+                "question": "Những tiêu chí tu dưỡng, rèn luyện để học sinh, sinh viên phấn đấu trở thành người công dân tốt là gì?",
+                "options": [
+                    "Thực hiện tốt quyền và nghĩa vụ công dân",
+                    "Tu dưỡng, rèn luyện về đạo đức, lối sống",
+                    "Có ý thức công dân",
+                    "Cả A, B, C"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 24,
+                "question": "Người lao động tốt có phải là người có phẩm chất chính trị vững vàng, trung với nước, hiếu với dân không?",
+                "options": [
+                    "Có",
+                    "Không",
+                    "Chỉ đúng với cán bộ",
+                    "Chỉ đúng với người lao động chân tay"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 25,
+                "question": "Đặc điểm của người lao động tốt là gì?",
+                "options": [
+                    "Cần cù, chăm chỉ",
+                    "Luôn quan tâm đến lợi ích cá nhân",
+                    "Làm việc không cần sáng tạo",
+                    "Chỉ cần có bằng cấp cao"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 26,
+                "question": "Người lao động tốt là người hội tụ những phẩm chất nào?",
+                "options": [
+                    "Tình yêu thương",
+                    "Đức - Tài",
+                    "Cần - Kiệm - Liêm - Chính",
+                    "Chỉ cần có sức khỏe"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 27,
+                "question": "Để trở thành người công dân tốt và người lao động tốt, cần phải tu dưỡng và rèn luyện về phẩm chất chính trị không?",
+                "options": [
+                    "Có",
+                    "Không",
+                    "Chỉ cần rèn luyện sức khỏe",
+                    "Chỉ cần học tập tốt"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 28,
+                "question": "Việc tu dưỡng, rèn luyện về văn hóa và nâng cao trình độ chuyên môn nghề nghiệp có phải là một nội dung để trở thành người công dân tốt và lao động tốt không?",
+                "options": [
+                    "Có",
+                    "Không",
+                    "Chỉ áp dụng cho người lao động trí óc",
+                    "Chỉ cần trong môi trường công sở"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 29,
+                "question": "Việc cổ vũ cho những hủ tục, lạc hậu được phát triển có phải là một điều kiện để trở thành công dân tốt không?",
+                "options": [
+                    "Có",
+                    "Không",
+                    "Tùy vào từng trường hợp",
+                    "Chỉ cần không vi phạm pháp luật"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 30,
+                "question": "Việc tu dưỡng và rèn luyện về đạo đức, lối sống, sức khỏe đối với công dân tốt và lao động tốt có ý nghĩa như thế nào?",
+                "options": [
+                    "Không quan trọng",
+                    "Rất quan trọng để phát triển toàn diện",
+                    "Chỉ cần trong môi trường lao động",
+                    "Chỉ cần với học sinh, sinh viên"
+                ],
+                "correctAnswer": 1
+            },
+            {
+                "id": 31,
+                "question": "Độ tuổi thấp nhất của người lao động theo quy định là bao nhiêu?",
+                "options": [
+                    "15 tuổi",
+                    "18 tuổi",
+                    "Từ đủ 15 tuổi",
+                    "Từ đủ 18 tuổi"
+                ],
+                "correctAnswer": 3
+            },
+            {
+                "id": 32,
+                "question": "Người trong độ tuổi nào sau đây đủ quyền tham gia bầu cử Quốc hội và Hội đồng nhân dân các cấp?",
+                "options": [
+                    "Đủ 16 tuổi trở lên",
+                    "Đủ 20 tuổi trở lên",
+                    "Từ đủ 18 tuổi trở lên",
+                    "Đủ 21 tuổi trở lên"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 33,
+                "question": "Hành động của chị Lan yêu cầu ông tổ trưởng dân phố công khai các khoản chi tiêu về việc làm đường thể hiện quyền gì của công dân?",
+                "options": [
+                    "Quyền khiếu nại",
+                    "Quyền tố cáo",
+                    "Quyền kiểm tra, giám sát của công dân đối với các công việc chung của xã hội",
+                    "Quyền tự do ngôn luận"
+                ],
+                "correctAnswer": 2
+            },
+            {
+                "id": 34,
+                "question": "Vai trò của lao động đối với sự tồn tại và phát triển của nhân loại là gì?",
+                "options": [
+                    "Nhân tố quyết định",
+                    "Là động lực",
+                    "Là điều kiện",
+                    "Là tiền đề"
+                ],
+                "correctAnswer": 0
+            },
+            {
+                "id": 35,
+                "question": "Việc tu dưỡng, rèn luyện tinh thần trách nhiệm đối với công việc của công dân có ý nghĩa ra sao?",
+                "options": [
+                    "Không quan trọng",
+                    "Góp phần xây dựng xã hội và nâng cao năng suất lao động",
+                    "Chỉ cần trong công việc cá nhân",
+                    "Chỉ áp dụng cho người lãnh đạo"
+                ],
+                "correctAnswer": 2
+            }
+        ]
     }
 ]

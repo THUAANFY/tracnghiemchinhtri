@@ -752,7 +752,7 @@ function showResult() {
         }
     });
     if (wrongAnswersDisplay.innerHTML === '') {
-        wrongAnswersDisplay.innerHTML = '<div class="p-6 bg-green-50 dark:bg-green-900/30 text-green-600 dark:text-green-400 rounded-lg text-center slide-in"><i class="fas fa-trophy text-4xl mb-3"></i><p class="text-xl font-semibold">Chúc mừng! Bạn trả lời đúng tất cả các câu.</p></div>';
+        wrongAnswersDisplay.innerHTML = '<div class="p-6 bg-dark-50 dark:bg-dark-900/30 text-dark-600 dark:text-dark-900 rounded-lg text-center slide-in"><i class="fas fa-trophy text-4xl mb-3"></i><p class="text-xl text-dark font-semibold">Chúc mừng! Bạn trả lời đúng tất cả các câu.</p></div>';
         reviewWrongButton.classList.add('hidden');
     } else {
         reviewWrongButton.classList.remove('hidden');
